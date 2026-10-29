@@ -1,0 +1,36 @@
+{
+  "format": 1,
+  "regions": [
+    {
+      "id": "liechtenstein"
+    },
+    {
+      "id": "austria",
+      "de": "\u00D6sterreich"
+    },
+    {
+      "id": "bayern"
+    },
+    {
+      "id": "nord-est"
+    },
+    {
+      "id": "centro"
+    },
+    {
+      "id": "isole"
+    },
+    {
+      "id": "nord-ovest"
+    },
+    {
+      "id": "sud"
+    },
+    {
+      "id": "dach"
+    },
+    {
+      "id": "switzerland"
+    }
+  ]
+}
