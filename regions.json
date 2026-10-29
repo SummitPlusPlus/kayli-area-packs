@@ -9,9 +9,6 @@
       "de": "\u00D6sterreich"
     },
     {
-      "id": "bayern"
-    },
-    {
       "id": "nord-est"
     },
     {
@@ -31,6 +28,102 @@
     },
     {
       "id": "switzerland"
+    },
+    {
+      "id": "alps"
+    },
+    {
+      "id": "belgium"
+    },
+    {
+      "id": "croatia"
+    },
+    {
+      "id": "freiburg-regbez"
+    },
+    {
+      "id": "karlsruhe-regbez"
+    },
+    {
+      "id": "stuttgart-regbez"
+    },
+    {
+      "id": "tuebingen-regbez"
+    },
+    {
+      "id": "mittelfranken"
+    },
+    {
+      "id": "niederbayern"
+    },
+    {
+      "id": "oberbayern"
+    },
+    {
+      "id": "oberfranken"
+    },
+    {
+      "id": "oberpfalz"
+    },
+    {
+      "id": "schwaben"
+    },
+    {
+      "id": "unterfranken"
+    },
+    {
+      "id": "berlin"
+    },
+    {
+      "id": "brandenburg"
+    },
+    {
+      "id": "bremen"
+    },
+    {
+      "id": "hamburg"
+    },
+    {
+      "id": "hessen"
+    },
+    {
+      "id": "mecklenburg-vorpommern"
+    },
+    {
+      "id": "niedersachsen"
+    },
+    {
+      "id": "arnsberg-regbez"
+    },
+    {
+      "id": "detmold-regbez"
+    },
+    {
+      "id": "duesseldorf-regbez"
+    },
+    {
+      "id": "koeln-regbez"
+    },
+    {
+      "id": "muenster-regbez"
+    },
+    {
+      "id": "rheinland-pfalz"
+    },
+    {
+      "id": "saarland"
+    },
+    {
+      "id": "sachsen"
+    },
+    {
+      "id": "sachsen-anhalt"
+    },
+    {
+      "id": "schleswig-holstein"
+    },
+    {
+      "id": "thueringen"
     }
   ]
 }
