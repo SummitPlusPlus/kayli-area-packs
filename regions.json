@@ -4,6 +4,30 @@
     {
       "id": "austria",
       "de": "\u00D6sterreich"
+    },
+    {
+      "id": "mittelfranken"
+    },
+    {
+      "id": "niederbayern"
+    },
+    {
+      "id": "oberbayern"
+    },
+    {
+      "id": "oberfranken"
+    },
+    {
+      "id": "oberpfalz"
+    },
+    {
+      "id": "schwaben"
+    },
+    {
+      "id": "unterfranken"
+    },
+    {
+      "id": "nord-est"
     }
   ]
 }
