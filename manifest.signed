@@ -1,104 +1,429 @@
 {
   "format": 1,
-  "checked": "2026-10-30T13:52:42.1639376Z",
+  "checked": "2026-10-30T14:15:11.7904911Z",
   "regions": [
     {
       "id": "austria",
       "name": "Austria",
       "de": "\u00D6sterreich",
       "data": "2026-10-29T21:21:26Z"
+    },
+    {
+      "id": "mittelfranken",
+      "name": "Mittelfranken",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "niederbayern",
+      "name": "Niederbayern",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "nord-est",
+      "name": "Nord-Est",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "oberbayern",
+      "name": "Oberbayern",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "oberfranken",
+      "name": "Oberfranken",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "oberpfalz",
+      "name": "Oberpfalz",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "schwaben",
+      "name": "Schwaben",
+      "data": "2026-10-28T21:21:02Z"
+    },
+    {
+      "id": "unterfranken",
+      "name": "Unterfranken",
+      "data": "2026-10-28T21:21:02Z"
     }
   ],
   "parts": [
     {
+      "x": 134,
+      "y": 86,
+      "regions": [
+        "unterfranken"
+      ],
+      "release": "2026-10",
+      "file": "134-86-d441e0a1af78.pack",
+      "size": 217856,
+      "sha256": "d441e0a1af7881f2435fa1f7e6ae77322a82c6190083ccf12a1a227e6462d1cf",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 49152,
+      "name": "Aschaffenburg, Lohr am Main"
+    },
+    {
+      "x": 134,
+      "y": 92,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "134-92-5fe52ab2081f.pack",
+      "size": 64900,
+      "sha256": "5fe52ab2081f704168eed38a7b2165730180ab76664de8d0db40e2ee722d49a7",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 136,
+      "name": "Piacenza, Castel San Giovanni"
+    },
+    {
+      "x": 135,
+      "y": 86,
+      "regions": [
+        "unterfranken",
+        "oberfranken"
+      ],
+      "release": "2026-10",
+      "file": "135-86-f9cc2035fae4.pack",
+      "size": 1043701,
+      "sha256": "f9cc2035fae47533de82ca006b7fce9770fdfac627ee033c080fbc9a331f10cc",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 64256,
+      "name": "Bamberg, Schweinfurt"
+    },
+    {
+      "x": 135,
+      "y": 87,
+      "regions": [
+        "mittelfranken",
+        "unterfranken",
+        "oberfranken",
+        "schwaben",
+        "oberbayern",
+        "oberpfalz"
+      ],
+      "release": "2026-10",
+      "file": "135-87-847bd178ca11.pack",
+      "size": 1266799,
+      "sha256": "847bd178ca1195e76a249a592c3caeeaf519b94d1ae802941a79165ef8f01706",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 52975,
+      "name": "N\u00FCrnberg, F\u00FCrth"
+    },
+    {
+      "x": 135,
+      "y": 88,
+      "regions": [
+        "schwaben",
+        "oberbayern",
+        "mittelfranken"
+      ],
+      "release": "2026-10",
+      "file": "135-88-e21517ac928e.pack",
+      "size": 610122,
+      "sha256": "e21517ac928e8fd0698eea4f10966ced9835bd0ca0fb9aa10fc717d8c953439b",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 61132,
+      "name": "Augsburg, Neu-Ulm"
+    },
+    {
       "x": 135,
       "y": 89,
       "regions": [
+        "austria",
+        "schwaben",
+        "oberbayern"
+      ],
+      "release": "2026-10",
+      "file": "135-89-25ec581999d5.pack",
+      "size": 4566164,
+      "sha256": "25ec581999d551a2867e836a0e7d32610c69553bf709ec9e3b84a9cf4e77dd45",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65518,
+      "name": "Kempten (Allg\u00E4u), Memmingen"
+    },
+    {
+      "x": 135,
+      "y": 90,
+      "regions": [
+        "nord-est",
         "austria"
       ],
       "release": "2026-10",
-      "file": "135-89-a7a155ed8ec8.pack",
-      "size": 1942231,
-      "sha256": "a7a155ed8ec8cfa034fb17a72092179dbf1002a2f4ad8dd63b427019fb7c1655",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 62464,
-      "name": "Telfs, Imst"
+      "file": "135-90-0c69d2866c30.pack",
+      "size": 2353708,
+      "sha256": "0c69d2866c303b6a20de0ed3648f21324aac23d9253e7bb18819e7f4a4909968",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 35020,
+      "name": "Merano - Meran, Schlanders - Silandro",
+      "de": "Meran, Schlanders"
+    },
+    {
+      "x": 135,
+      "y": 91,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "135-91-4883b806d5bd.pack",
+      "size": 2159961,
+      "sha256": "4883b806d5bdf1ef3892699510e4d09299801680eee15bc531a42a3896caed87",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 2188,
+      "name": "Verona, Trento",
+      "de": "Verona, Trient"
+    },
+    {
+      "x": 135,
+      "y": 92,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "135-92-e01a6d5cb807.pack",
+      "size": 183094,
+      "sha256": "e01a6d5cb80771a8ac4f22646808c76e0ffd0afc1420a350bbc01ecb251eb3c8",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 3824,
+      "name": "Parma, Modena"
+    },
+    {
+      "x": 136,
+      "y": 86,
+      "regions": [
+        "oberfranken",
+        "oberpfalz"
+      ],
+      "release": "2026-10",
+      "file": "136-86-a083f87f5715.pack",
+      "size": 336441,
+      "sha256": "a083f87f57151438c850fa6ad26af4a0915586c314a6fd9917942ff4ef6aa431",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 29440,
+      "name": "Bayreuth, Hof"
+    },
+    {
+      "x": 136,
+      "y": 87,
+      "regions": [
+        "oberpfalz",
+        "mittelfranken",
+        "oberfranken",
+        "niederbayern",
+        "oberbayern"
+      ],
+      "release": "2026-10",
+      "file": "136-87-21d145cbd49e.pack",
+      "size": 1052889,
+      "sha256": "21d145cbd49efccef45e55712e416299b1dd626dcbac5efe1c6599aac07efa1d",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65399,
+      "name": "Regensburg, Amberg"
+    },
+    {
+      "x": 136,
+      "y": 88,
+      "regions": [
+        "oberbayern",
+        "niederbayern",
+        "oberpfalz"
+      ],
+      "release": "2026-10",
+      "file": "136-88-75e6fffe9826.pack",
+      "size": 698958,
+      "sha256": "75e6fffe9826e17e61ce7a48e2f6c9205f07e4a7722b919b6925737dbf57df0e",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65535,
+      "name": "M\u00FCnchen, Ingolstadt"
     },
     {
       "x": 136,
       "y": 89,
       "regions": [
-        "austria"
+        "austria",
+        "oberbayern",
+        "nord-est"
       ],
       "release": "2026-10",
-      "file": "136-89-7c3f1fc0554b.pack",
-      "size": 2024268,
-      "sha256": "7c3f1fc0554b70b3496692bd394b64428e60419d0c5aea9148819d386cb656bb",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 48640,
-      "name": "Innsbruck, Kufstein"
+      "file": "136-89-b7019ddf7d45.pack",
+      "size": 5241421,
+      "sha256": "b7019ddf7d4582b42434fba671cd01c7ffe6b42d3008bcb6b9c59815cefb3223",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65535,
+      "name": "Innsbruck, Rosenheim"
     },
     {
       "x": 136,
       "y": 90,
       "regions": [
+        "nord-est",
         "austria"
       ],
       "release": "2026-10",
-      "file": "136-90-34bf8ca0ad28.pack",
-      "size": 449767,
-      "sha256": "34bf8ca0ad2892a1adbb1f1551797ea60ec1fde6cde74a033f16c472c126ac41",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 8,
-      "name": "Matrei in Osttirol, Sillian"
+      "file": "136-90-55d1afc14d20.pack",
+      "size": 6339197,
+      "sha256": "55d1afc14d2037641a60ab012371fbb7adc066eb07e4ea0ef2701663e801e136",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65535,
+      "name": "Bolzano - Bozen, Belluno",
+      "de": "Bozen, Belluno"
+    },
+    {
+      "x": 136,
+      "y": 91,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "136-91-1d1d19a2bef4.pack",
+      "size": 1876368,
+      "sha256": "1d1d19a2bef439e025604c5c172e9f57a0a4170ccf7e1b5d6429dff99ef38818",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65535,
+      "name": "Padova, Vicenza",
+      "de": "Padua, Vicenza"
+    },
+    {
+      "x": 136,
+      "y": 92,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "136-92-833bcfae9d91.pack",
+      "size": 117033,
+      "sha256": "833bcfae9d918182de2ec25c634c6143af6715b9b5305c0c3e0e93089d29890e",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 53246,
+      "name": "Bologna, Ravenna"
+    },
+    {
+      "x": 136,
+      "y": 93,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "136-93-5d7c678968bb.pack",
+      "size": 111140,
+      "sha256": "5d7c678968bb2779bc368f0382354871d5032aeaade32500d58d77edd3cc683f",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 4,
+      "name": "Rimini, Riccione"
+    },
+    {
+      "x": 137,
+      "y": 87,
+      "regions": [
+        "niederbayern",
+        "oberpfalz"
+      ],
+      "release": "2026-10",
+      "file": "137-87-05b6aeaea8c1.pack",
+      "size": 58597,
+      "sha256": "05b6aeaea8c160cab77a4179dc24ecd79dbe4870fd325f19cda98ce9f32e825b",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 4096,
+      "name": "Cham, Regen"
     },
     {
       "x": 137,
       "y": 88,
       "regions": [
-        "austria"
+        "austria",
+        "niederbayern",
+        "oberbayern"
       ],
       "release": "2026-10",
-      "file": "137-88-134327107efa.pack",
-      "size": 127123,
-      "sha256": "134327107efa5cae58e895e3f6798471eef02eeeccb8df4c703f89101f7f8041",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 59392,
-      "name": "Wels, Burghausen"
+      "file": "137-88-b0ff5321dcc1.pack",
+      "size": 569818,
+      "sha256": "b0ff5321dcc167ab5acdb6092ce2e02c3fdefc1a49e2336f9b5639dde34d0352",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65523,
+      "name": "Wels, Passau"
     },
     {
       "x": 137,
       "y": 89,
       "regions": [
-        "austria"
+        "austria",
+        "oberbayern"
       ],
       "release": "2026-10",
-      "file": "137-89-d7a822d71baa.pack",
-      "size": 3045286,
-      "sha256": "d7a822d71baa8fde3058bdd86991b1107ab827b88d44eee249a56dab3f874deb",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 65230,
+      "file": "137-89-d82be27aede8.pack",
+      "size": 4066218,
+      "sha256": "d82be27aede82c96761696c6fb9ce14528edbeb866741fee58727b19ae1bb670",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 65535,
       "name": "Salzburg, Hallein"
     },
     {
       "x": 137,
       "y": 90,
       "regions": [
-        "austria"
+        "austria",
+        "nord-est"
       ],
       "release": "2026-10",
-      "file": "137-90-45f87c223e3f.pack",
-      "size": 748952,
-      "sha256": "45f87c223e3fc50c981f3fdc22ed4bd4d7be55b9bd5190b6ef7512079b9daf2a",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 207,
+      "file": "137-90-bd45f4908b45.pack",
+      "size": 3028921,
+      "sha256": "bd45f4908b45b31d1fc5280dad940a018278dc3b92665af8a4c1ab4c53a63da2",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 13311,
       "name": "Villach, Spittal an der Drau"
+    },
+    {
+      "x": 137,
+      "y": 91,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "137-91-b73c0dd0e8cd.pack",
+      "size": 56343,
+      "sha256": "b73c0dd0e8cdcd7e4636acba060419843a8c345df8c25fc73a54ad2ab656a3c7",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 4915,
+      "name": "Trieste, Udine",
+      "de": "Triest, Udine"
+    },
+    {
+      "x": 137,
+      "y": 92,
+      "regions": [
+        "nord-est"
+      ],
+      "release": "2026-10",
+      "file": "137-92-ee8c43934a58.pack",
+      "size": 109,
+      "sha256": "ee8c43934a58647da5323513e18788f9a9d85373ec39ef6528cd0bf4ce87bd56",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T14:15:11.7904911Z",
+      "pieces": 273
     },
     {
       "x": 138,
@@ -193,4 +518,4 @@
   ]
 }
 --sig--
-WnjY7n5zB6RTFoFE5ZRye0P0yBar5yHJxBqBZ0Ve8s04IHfG527349kjrja3EbtQ+u80xappz//e8zoX20jxIw==
+nsOesttNEX+zTmoDIVTM6if12Paird7llGP6vcbqbnDEBxWoXN7rid89xQhg/++Tl2tF68uqZezcFn4rUrufSw==
