@@ -1,55 +1,232 @@
 {
   "format": 1,
-  "checked": "2026-10-30T14:15:11.7904911Z",
+  "checked": "2026-10-30T15:55:20.5939017Z",
   "regions": [
     {
       "id": "austria",
       "name": "Austria",
       "de": "\u00D6sterreich",
-      "data": "2026-10-29T21:21:26Z"
+      "data": "2026-10-29T21:21:26Z",
+      "source": "2026-10-30T11:09:07Z"
+    },
+    {
+      "id": "centro",
+      "name": "Centro",
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T04:28:26Z"
+    },
+    {
+      "id": "isole",
+      "name": "Isole",
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T04:27:15Z"
     },
     {
       "id": "mittelfranken",
       "name": "Mittelfranken",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:12:21Z"
     },
     {
       "id": "niederbayern",
       "name": "Niederbayern",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:11:22Z"
     },
     {
       "id": "nord-est",
       "name": "Nord-Est",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T04:32:54Z"
+    },
+    {
+      "id": "nord-ovest",
+      "name": "Nord-Ovest",
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T04:36:53Z"
     },
     {
       "id": "oberbayern",
       "name": "Oberbayern",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:14:03Z"
     },
     {
       "id": "oberfranken",
       "name": "Oberfranken",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:13:17Z"
     },
     {
       "id": "oberpfalz",
       "name": "Oberpfalz",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:10:43Z"
     },
     {
       "id": "schwaben",
       "name": "Schwaben",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:11:53Z"
+    },
+    {
+      "id": "sud",
+      "name": "Sud",
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T04:35:11Z"
+    },
+    {
+      "id": "switzerland",
+      "name": "Switzerland",
+      "data": "2026-10-29T21:21:26Z",
+      "source": "2026-10-30T14:53:19Z"
     },
     {
       "id": "unterfranken",
       "name": "Unterfranken",
-      "data": "2026-10-28T21:21:02Z"
+      "data": "2026-10-28T21:21:02Z",
+      "source": "2026-10-29T05:10:28Z"
     }
   ],
   "parts": [
+    {
+      "x": 132,
+      "y": 90,
+      "regions": [
+        "switzerland"
+      ],
+      "release": "2026-10",
+      "file": "132-90-047eb8f48917.pack",
+      "size": 381757,
+      "sha256": "047eb8f489178c954227849b65fb8090ad8d5f17f90f6fe53c2cf7a90947fcb1",
+      "data": "2026-10-29T21:21:26Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 136,
+      "name": "Gen\u00E8ve, Lausanne",
+      "de": "Genf, Lausanne"
+    },
+    {
+      "x": 133,
+      "y": 89,
+      "regions": [
+        "switzerland"
+      ],
+      "release": "2026-10",
+      "file": "133-89-66c163aa9592.pack",
+      "size": 1435922,
+      "sha256": "66c163aa959293b7c940d882e4b7b7b7e415ad2100244f8cf912590a37ed8263",
+      "data": "2026-10-29T21:21:26Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 64512,
+      "name": "Basel, Luzern"
+    },
+    {
+      "x": 133,
+      "y": 90,
+      "regions": [
+        "switzerland",
+        "nord-ovest"
+      ],
+      "release": "2026-10",
+      "file": "133-90-8d7163a80543.pack",
+      "size": 6808456,
+      "sha256": "8d7163a805439b678022500326206ae1acab962fa9ac6f35a3a44c78a2b82381",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Bern, Thun"
+    },
+    {
+      "x": 133,
+      "y": 91,
+      "regions": [
+        "nord-ovest",
+        "switzerland"
+      ],
+      "release": "2026-10",
+      "file": "133-91-b433c213e2e7.pack",
+      "size": 6883838,
+      "sha256": "b433c213e2e7f858e7446d4638f6300d92234db782514ab3ff32a3e1c95deebf",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61183,
+      "name": "Biella, Settimo Torinese"
+    },
+    {
+      "x": 133,
+      "y": 92,
+      "regions": [
+        "nord-ovest"
+      ],
+      "release": "2026-10",
+      "file": "133-92-77545a4a9a25.pack",
+      "size": 2825358,
+      "sha256": "77545a4a9a25fc1e23d123e85e93c50e5d116f45e1c7c3b53daa5ab614264f6a",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 53247,
+      "name": "Torino, Asti",
+      "de": "Turin, Asti"
+    },
+    {
+      "x": 133,
+      "y": 93,
+      "regions": [
+        "nord-ovest"
+      ],
+      "release": "2026-10",
+      "file": "133-93-0bbbaba8d660.pack",
+      "size": 362483,
+      "sha256": "0bbbaba8d6609362c5417b7b9f92759aa5d919b1ffe078e72627cc9628e4811b",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 76,
+      "name": "Sanremo, Imperia"
+    },
+    {
+      "x": 133,
+      "y": 95,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "133-95-c092d7ee4d1a.pack",
+      "size": 1527,
+      "sha256": "c092d7ee4d1ad8ef7e58996ecaf4edbc5039982bf2b5d5987b1c9dcd08cddea7",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 49152
+    },
+    {
+      "x": 133,
+      "y": 96,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "133-96-35d50c1fd6f8.pack",
+      "size": 20490,
+      "sha256": "35d50c1fd6f81035ee88e9867725a6be9141a56e18583b0ef25cc16ff012f3c9",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 36044,
+      "name": "S\u0027Aliguera/l\u0027Alguer/Alghero, Posthudorra/Porto Torres",
+      "de": "Alghero, Posthudorra/Porto Torres"
+    },
+    {
+      "x": 133,
+      "y": 97,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "133-97-da1faff152f4.pack",
+      "size": 34806,
+      "sha256": "da1faff152f4a6d64e53a3884fad6e8ca7bdcda100283880947440ff6d971ef5",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 34952
+    },
     {
       "x": 134,
       "y": 86,
@@ -67,18 +244,135 @@
     },
     {
       "x": 134,
-      "y": 92,
+      "y": 89,
       "regions": [
+        "switzerland",
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "134-89-eed8e609efe9.pack",
+      "size": 2985592,
+      "sha256": "eed8e609efe922be96f7657540f46ad6352e5fcac3caa79c5c37755652421844",
+      "data": "2026-10-29T21:21:26Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 32512,
+      "name": "Z\u00FCrich, St. Gallen",
+      "de": "Z\u00FCrich, Sankt Gallen"
+    },
+    {
+      "x": 134,
+      "y": 90,
+      "regions": [
+        "switzerland",
+        "nord-ovest",
+        "austria"
+      ],
+      "release": "2026-10",
+      "file": "134-90-c29d03c698ff.pack",
+      "size": 6206419,
+      "sha256": "c29d03c698ff07166c8c44d5735c9e16e41b2f83099319cacd7ac9bf48fb5ccb",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Bellinzona, Chur"
+    },
+    {
+      "x": 134,
+      "y": 91,
+      "regions": [
+        "nord-ovest",
+        "switzerland",
         "nord-est"
       ],
       "release": "2026-10",
-      "file": "134-92-5fe52ab2081f.pack",
-      "size": 64900,
-      "sha256": "5fe52ab2081f704168eed38a7b2165730180ab76664de8d0db40e2ee722d49a7",
+      "file": "134-91-2785bdcb1f99.pack",
+      "size": 5176727,
+      "sha256": "2785bdcb1f9990b77d451473412970bee5818f21f83ef2fb81231161d35f500f",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 136,
-      "name": "Piacenza, Castel San Giovanni"
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Milano, Bergamo",
+      "de": "Mailand, Bergamo"
+    },
+    {
+      "x": 134,
+      "y": 92,
+      "regions": [
+        "nord-ovest",
+        "nord-est",
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "134-92-cc41ca377137.pack",
+      "size": 2649562,
+      "sha256": "cc41ca3771379281c5382ca42e121a6552f88708766bd64fc2428b63b54d666e",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Genova, Piacenza",
+      "de": "Genua, Piacenza"
+    },
+    {
+      "x": 134,
+      "y": 93,
+      "regions": [
+        "nord-ovest",
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "134-93-c39e0645cbdd.pack",
+      "size": 16709,
+      "sha256": "c39e0645cbddd1b4968d10fe637b28d5812f0eaeb6aff167a014eebd120ad755",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 34831
+    },
+    {
+      "x": 134,
+      "y": 95,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "134-95-fa66cb2c6bcb.pack",
+      "size": 53453,
+      "sha256": "fa66cb2c6bcb55a92582cf1c14403e19e1cc5c23eb2497a724b6cfc53bfe7da5",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61440,
+      "name": "Madalena/La Maddalena, Alzach\u00E8na/Arzachena"
+    },
+    {
+      "x": 134,
+      "y": 96,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "134-96-82510fee0013.pack",
+      "size": 773898,
+      "sha256": "82510fee0013b212d8271df4cbd470407e5128a6b94883b9fafa2f6c3c25efdd",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "T\u00E0ttari/Sassari, Terranoa/Olbia",
+      "de": "Sassari, Terranoa/Olbia"
+    },
+    {
+      "x": 134,
+      "y": 97,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "134-97-e3e64e8bffcb.pack",
+      "size": 425420,
+      "sha256": "e3e64e8bffcb5e5d46e6790b6ee1f419d9226d02311785695a6cb4b85e3fe824",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Casteddu/Cagliari, Cuartu Sant\u0027Aleni/Quartu Sant\u0027Elena",
+      "de": "Cagliari, Cuartu Sant\u0027Aleni/Quartu Sant\u0027Elena"
     },
     {
       "x": 135,
@@ -155,48 +449,83 @@
       "y": 90,
       "regions": [
         "nord-est",
+        "nord-ovest",
+        "switzerland",
         "austria"
       ],
       "release": "2026-10",
-      "file": "135-90-0c69d2866c30.pack",
-      "size": 2353708,
-      "sha256": "0c69d2866c303b6a20de0ed3648f21324aac23d9253e7bb18819e7f4a4909968",
+      "file": "135-90-1efd04beb37f.pack",
+      "size": 5790831,
+      "sha256": "1efd04beb37f9eb18fa21cc033ba9c406a0b93137e5ddff6ec8fbbae3816d0d0",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 35020,
-      "name": "Merano - Meran, Schlanders - Silandro",
-      "de": "Meran, Schlanders"
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Merano - Meran, Sondrio",
+      "de": "Meran, Sondrio"
     },
     {
       "x": 135,
       "y": 91,
       "regions": [
+        "nord-ovest",
         "nord-est"
       ],
       "release": "2026-10",
-      "file": "135-91-4883b806d5bd.pack",
-      "size": 2159961,
-      "sha256": "4883b806d5bdf1ef3892699510e4d09299801680eee15bc531a42a3896caed87",
+      "file": "135-91-84782d00a95b.pack",
+      "size": 5680268,
+      "sha256": "84782d00a95ba54ba2100304288499be4dbbb3b1c747947a662634e9bddaac59",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 2188,
-      "name": "Verona, Trento",
-      "de": "Verona, Trient"
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Verona, Brescia"
     },
     {
       "x": 135,
       "y": 92,
       "regions": [
-        "nord-est"
+        "nord-est",
+        "centro",
+        "nord-ovest"
       ],
       "release": "2026-10",
-      "file": "135-92-e01a6d5cb807.pack",
-      "size": 183094,
-      "sha256": "e01a6d5cb80771a8ac4f22646808c76e0ffd0afc1420a350bbc01ecb251eb3c8",
+      "file": "135-92-00b0d809058e.pack",
+      "size": 1227529,
+      "sha256": "00b0d809058ebc325dcca2418737e47d7f9010defccccf9cf95760ae863485a6",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 3824,
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
       "name": "Parma, Modena"
+    },
+    {
+      "x": 135,
+      "y": 93,
+      "regions": [
+        "centro",
+        "nord-ovest"
+      ],
+      "release": "2026-10",
+      "file": "135-93-56e032042aae.pack",
+      "size": 1141682,
+      "sha256": "56e032042aaed4810f14962dfaadca509717bcfc644bde4826ea364ffcc76c0f",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Prato, Livorno"
+    },
+    {
+      "x": 135,
+      "y": 94,
+      "regions": [
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "135-94-fec175bb5287.pack",
+      "size": 222107,
+      "sha256": "fec175bb5287700caa6030aeb7c3cbeb07aac8fb726261f007fff91b177ebb8b",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61439,
+      "name": "Grosseto, Piombino"
     },
     {
       "x": 136,
@@ -304,31 +633,139 @@
       "x": 136,
       "y": 92,
       "regions": [
-        "nord-est"
+        "nord-est",
+        "centro",
+        "nord-ovest"
       ],
       "release": "2026-10",
-      "file": "136-92-833bcfae9d91.pack",
-      "size": 117033,
-      "sha256": "833bcfae9d918182de2ec25c634c6143af6715b9b5305c0c3e0e93089d29890e",
+      "file": "136-92-0e111d1c6586.pack",
+      "size": 316083,
+      "sha256": "0e111d1c6586fafdfc4a0e938bbce7ecc232c929802d9231154f588b4504c9c0",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 53246,
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
       "name": "Bologna, Ravenna"
     },
     {
       "x": 136,
       "y": 93,
       "regions": [
+        "centro",
         "nord-est"
       ],
       "release": "2026-10",
-      "file": "136-93-5d7c678968bb.pack",
-      "size": 111140,
-      "sha256": "5d7c678968bb2779bc368f0382354871d5032aeaade32500d58d77edd3cc683f",
+      "file": "136-93-caa6f1043e4a.pack",
+      "size": 1299193,
+      "sha256": "caa6f1043e4a63b4095bfe14290af9c012ad65d40eae0522382d04d7de9cbb01",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 4,
-      "name": "Rimini, Riccione"
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65527,
+      "name": "Firenze, Rimini",
+      "de": "Florenz, Rimini"
+    },
+    {
+      "x": 136,
+      "y": 94,
+      "regions": [
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "136-94-3daa587b0d38.pack",
+      "size": 384950,
+      "sha256": "3daa587b0d38f631763b05f9b725128794117537c6003415c79ce042cf870ad4",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Terni, Viterbo"
+    },
+    {
+      "x": 136,
+      "y": 95,
+      "regions": [
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "136-95-f321e688dcd3.pack",
+      "size": 30419,
+      "sha256": "f321e688dcd3cfe442da8dbb9909a8244199f5a299b335bf50d4408ea1a21725",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61439,
+      "name": "Roma, Lido di Ostia",
+      "de": "Rom, Lido di Ostia"
+    },
+    {
+      "x": 136,
+      "y": 96,
+      "regions": [
+        "isole",
+        "centro"
+      ],
+      "release": "2026-10",
+      "file": "136-96-70f97432f053.pack",
+      "size": 174,
+      "sha256": "70f97432f0532d123c14216870df1b0171dadf067f1b404139550d4ce2128f56",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 63260
+    },
+    {
+      "x": 136,
+      "y": 97,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "136-97-c140aa9168fc.pack",
+      "size": 174,
+      "sha256": "c140aa9168fc721f823cf184bb0ddedc7487441c05f22f04af5bfa28c6a1b6af",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535
+    },
+    {
+      "x": 136,
+      "y": 98,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "136-98-86914627ba9f.pack",
+      "size": 23374,
+      "sha256": "86914627ba9fe4d4f7d74b5fe459450b7a2f07d3e9aa35190476a103891e27c6",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61439,
+      "name": "Marsala, Trapani"
+    },
+    {
+      "x": 136,
+      "y": 99,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "136-99-4e2379c6fac9.pack",
+      "size": 44996,
+      "sha256": "4e2379c6fac9c59e5f4f65da4d1f2ff020847acbfbe5cc204cd0fbddd7a72140",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61166,
+      "name": "Mazara del Vallo"
+    },
+    {
+      "x": 136,
+      "y": 100,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "136-100-0afab7eceafd.pack",
+      "size": 2052,
+      "sha256": "0afab7eceafd3aec43e47c1ed42d8ecf254191a2fbeda80e993de587875137c9",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 52428
     },
     {
       "x": 137,
@@ -413,17 +850,126 @@
     },
     {
       "x": 137,
-      "y": 92,
+      "y": 93,
       "regions": [
+        "centro",
         "nord-est"
       ],
       "release": "2026-10",
-      "file": "137-92-ee8c43934a58.pack",
-      "size": 109,
-      "sha256": "ee8c43934a58647da5323513e18788f9a9d85373ec39ef6528cd0bf4ce87bd56",
+      "file": "137-93-7a90677f6727.pack",
+      "size": 390605,
+      "sha256": "7a90677f6727804e287cc86e863e1dd2bd27c39aed7e3b19bdecfbe9fa573ada",
       "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 273
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65523,
+      "name": "Ancona, Pesaro"
+    },
+    {
+      "x": 137,
+      "y": 94,
+      "regions": [
+        "centro",
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "137-94-c0cc1fa4faa1.pack",
+      "size": 973366,
+      "sha256": "c0cc1fa4faa100b60108dfc76b255de764702404adc359965f2577a156b3addd",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65527,
+      "name": "L\u0027Aquila, Teramo"
+    },
+    {
+      "x": 137,
+      "y": 95,
+      "regions": [
+        "centro",
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "137-95-93ddb11cafd7.pack",
+      "size": 920194,
+      "sha256": "93ddb11cafd7a2c21f43d58efd6e79712b02a62dfa59a58c615989c576b7612b",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Latina, Tivoli"
+    },
+    {
+      "x": 137,
+      "y": 96,
+      "regions": [
+        "centro",
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "137-96-0287ec33c8a3.pack",
+      "size": 1970,
+      "sha256": "0287ec33c8a340922d0c81d1387556ec4e9711c6a5bf5d8f287419b8520783a5",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 27,
+      "name": "Ischia, Forio"
+    },
+    {
+      "x": 137,
+      "y": 97,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "137-97-477e50279840.pack",
+      "size": 173,
+      "sha256": "477e50279840329cfcc9e55c0fcd124da91aa0c01b584fee5fc096dc6389e9e8",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65523
+    },
+    {
+      "x": 137,
+      "y": 98,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "137-98-25eb0caf08cc.pack",
+      "size": 283246,
+      "sha256": "25eb0caf08cc725070e29c8a4fbfeeca4e0020e2c490cb6bd24432c492855982",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Palermo, Bagheria"
+    },
+    {
+      "x": 137,
+      "y": 99,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "137-99-4738435960a4.pack",
+      "size": 233944,
+      "sha256": "4738435960a4876954575cfefd0f43751023c83b989abc5fa767a1427b699bd8",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Agrigento, Sciacca",
+      "de": "Agrigent, Sciacca"
+    },
+    {
+      "x": 137,
+      "y": 100,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "137-100-5243dfdd97d4.pack",
+      "size": 484,
+      "sha256": "5243dfdd97d4df5ded8ab1794160416071a9fc1c354895290ded9f97accf4707",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 13175
     },
     {
       "x": 138,
@@ -471,6 +1017,99 @@
       "name": "Klagenfurt, Wolfsberg"
     },
     {
+      "x": 138,
+      "y": 94,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "138-94-b7f21e66f6fe.pack",
+      "size": 94443,
+      "sha256": "b7f21e66f6fe0f4f30dc303d905efc3b33f44bd19e4540954930c119c9d71b24",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 62208,
+      "name": "Pescara, Montesilvano"
+    },
+    {
+      "x": 138,
+      "y": 95,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "138-95-0466cca6b900.pack",
+      "size": 462421,
+      "sha256": "0466cca6b90004f2a75d415cfcbc706396687bb0d28ee9369b46586434413454",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Caserta, Benevento",
+      "de": "Caserta, Benevent"
+    },
+    {
+      "x": 138,
+      "y": 96,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "138-96-10e83b48771a.pack",
+      "size": 758829,
+      "sha256": "10e83b48771ac73fd44b54297f537a0d8ab0a5479e9b687fbf8ec7dfdc23bd00",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 52991,
+      "name": "Napoli, Salerno",
+      "de": "Neapel, Salerno"
+    },
+    {
+      "x": 138,
+      "y": 97,
+      "regions": [
+        "isole",
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "138-97-34b94fcec3f4.pack",
+      "size": 175,
+      "sha256": "34b94fcec3f471c4754af9861d8319c4418b148af50c03ea042789c34a11b3dc",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 29448
+    },
+    {
+      "x": 138,
+      "y": 98,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "138-98-a2237a60de16.pack",
+      "size": 660499,
+      "sha256": "a2237a60de16fdc5319f6ffe0900014efaea96cea455f4410f9d1bc06a99e3d0",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Barcellona Pozzo di Gotto, Milazzo"
+    },
+    {
+      "x": 138,
+      "y": 99,
+      "regions": [
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "138-99-de0b5aeb1bb1.pack",
+      "size": 854984,
+      "sha256": "de0b5aeb1bb18383e3c44b19bf33cf73fe1f7d05ba951be75f9ec3105619e59a",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Catania, Siracusa",
+      "de": "Catania, Syrakus"
+    },
+    {
       "x": 139,
       "y": 88,
       "regions": [
@@ -514,6 +1153,142 @@
       "built": "2026-10-30T13:52:42.1639376Z",
       "pieces": 1,
       "name": "Feldbach, Fehring"
+    },
+    {
+      "x": 139,
+      "y": 95,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "139-95-248e95fa42af.pack",
+      "size": 133108,
+      "sha256": "248e95fa42af561de3770179c3bb0d4ae6eb6a96ccf08b7dbf7c6c20b6bb7d38",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65523,
+      "name": "Bari, Foggia"
+    },
+    {
+      "x": 139,
+      "y": 96,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "139-96-8288abcf154d.pack",
+      "size": 361226,
+      "sha256": "8288abcf154df51b3b2c3cd26352321eb6e2eede255cfa8ef6894eb32d631352",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Altamura, Potenza"
+    },
+    {
+      "x": 139,
+      "y": 97,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "139-97-d8c0cbfb7445.pack",
+      "size": 158341,
+      "sha256": "d8c0cbfb74456319f63820d618924a61da3a366e27d66c9bbafef2219eb20d5c",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 61439,
+      "name": "Catanzaro, Lamezia Terme"
+    },
+    {
+      "x": 139,
+      "y": 98,
+      "regions": [
+        "sud",
+        "isole"
+      ],
+      "release": "2026-10",
+      "file": "139-98-15a8514e8608.pack",
+      "size": 71622,
+      "sha256": "15a8514e8608dffe05ba7cef52a0a9d5a461532771a16beafa1345f4745c43fc",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 4095,
+      "name": "Messina, Reggio di Calabria"
+    },
+    {
+      "x": 140,
+      "y": 95,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "140-95-60c4bad65537.pack",
+      "size": 9697,
+      "sha256": "60c4bad6553786b7d8afb68504a53bab822c61f93e7822273b02f1be53c8ce93",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 29440,
+      "name": "Triggiano, Noicattaro"
+    },
+    {
+      "x": 140,
+      "y": 96,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "140-96-ae3eda0f69a5.pack",
+      "size": 177131,
+      "sha256": "ae3eda0f69a5e8eb10ecf4aea8e7ad376425f0eaf09925c89924eb534558660a",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 65535,
+      "name": "Taranto, Lecce",
+      "de": "Tarent, Lecce"
+    },
+    {
+      "x": 140,
+      "y": 97,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "140-97-765c2df753ef.pack",
+      "size": 8411,
+      "sha256": "765c2df753ef8f38c3ed9ca7e33c4f9510a0093ecb1b5fc1f827d1f268ba5b19",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 14335,
+      "name": "Crotone, Isola di Capo Rizzuto"
+    },
+    {
+      "x": 141,
+      "y": 96,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "141-96-0cb3273d0a7a.pack",
+      "size": 33095,
+      "sha256": "0cb3273d0a7a187a7e9ef8524a8297d42b33347fc90cce441ca26c6b229ee17d",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 4368,
+      "name": "Tricase, Maglie"
+    },
+    {
+      "x": 141,
+      "y": 97,
+      "regions": [
+        "sud"
+      ],
+      "release": "2026-10",
+      "file": "141-97-989a4f4d1514.pack",
+      "size": 5807,
+      "sha256": "989a4f4d1514309e6e21974bb2de979a8905a1b84a3397837da0109c9fab50a6",
+      "data": "2026-10-28T21:21:02Z",
+      "built": "2026-10-30T15:55:20.5939017Z",
+      "pieces": 1
     }
   ]
 }
