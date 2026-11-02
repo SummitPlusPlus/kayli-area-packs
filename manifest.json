@@ -1,123 +1,1689 @@
 {
   "format": 1,
-  "checked": "2026-10-30T15:55:20.5939017Z",
+  "checked": "2026-11-02T16:17:44.307769Z",
   "regions": [
+    {
+      "id": "andalucia",
+      "name": "Andaluc\u00EDa",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:37Z"
+    },
+    {
+      "id": "aragon",
+      "name": "Arag\u00F3n",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:51:04Z"
+    },
+    {
+      "id": "arnsberg-regbez",
+      "name": "Regierungsbezirk Arnsberg",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:15:35Z"
+    },
+    {
+      "id": "asturias",
+      "name": "Asturias",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:07Z"
+    },
     {
       "id": "austria",
       "name": "Austria",
       "de": "\u00D6sterreich",
-      "data": "2026-10-29T21:21:26Z",
-      "source": "2026-10-30T11:09:07Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T07:59:58Z"
+    },
+    {
+      "id": "belgium",
+      "name": "Belgium",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T07:47:05Z"
+    },
+    {
+      "id": "berlin",
+      "name": "Berlin",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:08:14Z"
+    },
+    {
+      "id": "brandenburg",
+      "name": "Brandenburg (mit Berlin)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:10:46Z"
+    },
+    {
+      "id": "bremen",
+      "name": "Bremen",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:11:39Z"
+    },
+    {
+      "id": "cantabria",
+      "name": "Cantabria",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:50:03Z"
+    },
+    {
+      "id": "castilla-la-mancha",
+      "name": "Castilla-La Mancha",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:15Z"
+    },
+    {
+      "id": "castilla-y-leon",
+      "name": "Castilla y Le\u00F3n",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:51:03Z"
+    },
+    {
+      "id": "cataluna",
+      "name": "Catalu\u00F1a",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:45Z"
     },
     {
       "id": "centro",
       "name": "Centro",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T04:28:26Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:53:47Z"
+    },
+    {
+      "id": "ceuta",
+      "name": "Ceuta",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:50:11Z"
+    },
+    {
+      "id": "croatia",
+      "name": "Croatia",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T07:53:31Z"
+    },
+    {
+      "id": "detmold-regbez",
+      "name": "Regierungsbezirk Detmold",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:17:28Z"
+    },
+    {
+      "id": "dolnoslaskie",
+      "name": "Wojew\u00F3dztwo dolno\u015Bl\u0105skie (Lower Silesian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:29:59Z"
+    },
+    {
+      "id": "duesseldorf-regbez",
+      "name": "Regierungsbezirk D\u00FCsseldorf",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:17:21Z"
+    },
+    {
+      "id": "extremadura",
+      "name": "Extremadura",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:06Z"
+    },
+    {
+      "id": "freiburg-regbez",
+      "name": "Regierungsbezirk Freiburg",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:13:59Z"
+    },
+    {
+      "id": "galicia",
+      "name": "Galicia",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:16Z"
+    },
+    {
+      "id": "greece",
+      "name": "Greece",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T07:24:31Z"
+    },
+    {
+      "id": "hamburg",
+      "name": "Hamburg",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:05:36Z"
+    },
+    {
+      "id": "hessen",
+      "name": "Hessen",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:10:05Z"
+    },
+    {
+      "id": "islas-baleares",
+      "name": "Islas Baleares",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:01Z"
     },
     {
       "id": "isole",
       "name": "Isole",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T04:27:15Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:53:32Z"
+    },
+    {
+      "id": "karlsruhe-regbez",
+      "name": "Regierungsbezirk Karlsruhe",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:13:33Z"
+    },
+    {
+      "id": "koeln-regbez",
+      "name": "Regierungsbezirk K\u00F6ln",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:16:33Z"
+    },
+    {
+      "id": "kujawsko-pomorskie",
+      "name": "Wojew\u00F3dztwo kujawsko-pomorskie (Kuyavian-Pomeranian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:30:10Z"
+    },
+    {
+      "id": "la-rioja",
+      "name": "La Rioja",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:27Z"
+    },
+    {
+      "id": "liechtenstein",
+      "name": "Liechtenstein",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:01:16Z"
+    },
+    {
+      "id": "lodzkie",
+      "name": "Wojew\u00F3dztwo \u0142\u00F3dzkie (\u0141\u00F3d\u017A Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:30:36Z"
+    },
+    {
+      "id": "lubelskie",
+      "name": "Wojew\u00F3dztwo lubelskie (Lublin Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:26:55Z"
+    },
+    {
+      "id": "lubuskie",
+      "name": "Wojew\u00F3dztwo lubuskie (Lubusz Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:29:39Z"
+    },
+    {
+      "id": "luxembourg",
+      "name": "Luxembourg",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T05:36:07Z"
+    },
+    {
+      "id": "madrid",
+      "name": "Madrid",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:39Z"
+    },
+    {
+      "id": "malopolskie",
+      "name": "Wojew\u00F3dztwo ma\u0142opolskie (Lesser Poland Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:31:50Z"
+    },
+    {
+      "id": "mazowieckie",
+      "name": "Wojew\u00F3dztwo mazowieckie (Mazovian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:28:38Z"
+    },
+    {
+      "id": "mecklenburg-vorpommern",
+      "name": "Mecklenburg-Vorpommern",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:07:53Z"
+    },
+    {
+      "id": "melilla",
+      "name": "Melilla",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:19Z"
     },
     {
       "id": "mittelfranken",
       "name": "Mittelfranken",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:12:21Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:17:44Z"
+    },
+    {
+      "id": "muenster-regbez",
+      "name": "Regierungsbezirk M\u00FCnster",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:15:27Z"
+    },
+    {
+      "id": "murcia",
+      "name": "Murcia",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:19Z"
+    },
+    {
+      "id": "navarra",
+      "name": "Navarra",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:07Z"
     },
     {
       "id": "niederbayern",
       "name": "Niederbayern",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:11:22Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:19:47Z"
+    },
+    {
+      "id": "niedersachsen",
+      "name": "Niedersachsen (mit Bremen)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:06:42Z"
     },
     {
       "id": "nord-est",
       "name": "Nord-Est",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T04:32:54Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:54:41Z"
     },
     {
       "id": "nord-ovest",
       "name": "Nord-Ovest",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T04:36:53Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:56:42Z"
     },
     {
       "id": "oberbayern",
       "name": "Oberbayern",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:14:03Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:20:09Z"
     },
     {
       "id": "oberfranken",
       "name": "Oberfranken",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:13:17Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:18:15Z"
     },
     {
       "id": "oberpfalz",
       "name": "Oberpfalz",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:10:43Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:17:48Z"
+    },
+    {
+      "id": "opolskie",
+      "name": "Wojew\u00F3dztwo opolskie (Opole Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:29:15Z"
+    },
+    {
+      "id": "pais-vasco",
+      "name": "Pa\u00EDs Vasco",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:48:27Z"
+    },
+    {
+      "id": "podkarpackie",
+      "name": "Wojew\u00F3dztwo podkarpackie (Subcarpathian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:28:48Z"
+    },
+    {
+      "id": "podlaskie",
+      "name": "Wojew\u00F3dztwo podlaskie (Podlaskie Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:26:57Z"
+    },
+    {
+      "id": "pomorskie",
+      "name": "Wojew\u00F3dztwo pomorskie (Pomeranian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:26:45Z"
+    },
+    {
+      "id": "rheinland-pfalz",
+      "name": "Rheinland-Pfalz",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:12:33Z"
+    },
+    {
+      "id": "saarland",
+      "name": "Saarland",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:07:36Z"
+    },
+    {
+      "id": "sachsen",
+      "name": "Sachsen",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:12:55Z"
+    },
+    {
+      "id": "sachsen-anhalt",
+      "name": "Sachsen-Anhalt",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:09:48Z"
+    },
+    {
+      "id": "schleswig-holstein",
+      "name": "Schleswig-Holstein",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:11:12Z"
     },
     {
       "id": "schwaben",
       "name": "Schwaben",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:11:53Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:18:58Z"
+    },
+    {
+      "id": "slaskie",
+      "name": "Wojew\u00F3dztwo \u015Bl\u0105skie (Silesian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:26:20Z"
+    },
+    {
+      "id": "stuttgart-regbez",
+      "name": "Regierungsbezirk Stuttgart",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:13:07Z"
     },
     {
       "id": "sud",
       "name": "Sud",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T04:35:11Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:51:56Z"
+    },
+    {
+      "id": "swietokrzyskie",
+      "name": "Wojew\u00F3dztwo \u015Bwi\u0119tokrzyskie (\u015Awi\u0119tokrzyskie Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:28:04Z"
     },
     {
       "id": "switzerland",
       "name": "Switzerland",
-      "data": "2026-10-29T21:21:26Z",
-      "source": "2026-10-30T14:53:19Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T05:49:05Z"
+    },
+    {
+      "id": "thueringen",
+      "name": "Th\u00FCringen",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:05:28Z"
+    },
+    {
+      "id": "tuebingen-regbez",
+      "name": "Regierungsbezirk T\u00FCbingen",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:13:09Z"
     },
     {
       "id": "unterfranken",
       "name": "Unterfranken",
-      "data": "2026-10-28T21:21:02Z",
-      "source": "2026-10-29T05:10:28Z"
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T09:19:41Z"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:49:27Z"
+    },
+    {
+      "id": "warminsko-mazurskie",
+      "name": "Wojew\u00F3dztwo warmi\u0144sko-mazurskie (Warmian-Masurian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:26:28Z"
+    },
+    {
+      "id": "wielkopolskie",
+      "name": "Wojew\u00F3dztwo wielkopolskie (Greater Poland Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:29:07Z"
+    },
+    {
+      "id": "zachodniopomorskie",
+      "name": "Wojew\u00F3dztwo zachodniopomorskie (West Pomeranian Voivodeship)",
+      "data": "2026-11-01T21:21:36Z",
+      "source": "2026-11-02T08:29:12Z"
     }
   ],
   "parts": [
+    {
+      "x": 121,
+      "y": 93,
+      "regions": [
+        "galicia"
+      ],
+      "release": "2026-11",
+      "file": "121-93-8943aacd891b.pack",
+      "size": 252179,
+      "sha256": "8943aacd891b96d849bf7d0c81547121485699ab1a280eba660023e383947c7f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61166,
+      "name": "Carballo, Arteixo"
+    },
+    {
+      "x": 121,
+      "y": 94,
+      "regions": [
+        "galicia"
+      ],
+      "release": "2026-11",
+      "file": "121-94-298254072582.pack",
+      "size": 231724,
+      "sha256": "2982540725823ffdb01a7b25549d0e195d22c9d03a9dbc11fd8c6bb98f489a47",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 19694,
+      "name": "Vigo, Santiago de Compostela"
+    },
+    {
+      "x": 122,
+      "y": 93,
+      "regions": [
+        "galicia",
+        "asturias"
+      ],
+      "release": "2026-11",
+      "file": "122-93-6418d41bf256.pack",
+      "size": 277288,
+      "sha256": "6418d41bf25641705a0a12bbb7c967cbf1586e78c3779148b58105d6d11a1c2a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65520,
+      "name": "A Coru\u00F1a, Ferrol"
+    },
+    {
+      "x": 122,
+      "y": 94,
+      "regions": [
+        "galicia",
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "122-94-ade3f7f5ff43.pack",
+      "size": 285023,
+      "sha256": "ade3f7f5ff437954786da9e516e980ed4e50fb9ce6b9a31536b064a4a8af46d6",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61439,
+      "name": "Ourense, Lugo"
+    },
+    {
+      "x": 122,
+      "y": 99,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "122-99-bf498e4b2b40.pack",
+      "size": 24816,
+      "sha256": "bf498e4b2b409f5c34709212157d6f5ad9719d3fcf4038887967df0688e538c7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 136,
+      "name": "Lepe, Isla Cristina"
+    },
+    {
+      "x": 123,
+      "y": 93,
+      "regions": [
+        "asturias",
+        "galicia"
+      ],
+      "release": "2026-11",
+      "file": "123-93-088f8412547d.pack",
+      "size": 296665,
+      "sha256": "088f8412547d08e3497c97a2da95db090e6a09bc338d17e8d91de11706d84012",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65520,
+      "name": "Gij\u00F3n / Xix\u00F3n, Oviedo / Uvi\u00E9u",
+      "de": "Gij\u00F3n / Xix\u00F3n, Oviedo"
+    },
+    {
+      "x": 123,
+      "y": 94,
+      "regions": [
+        "castilla-y-leon",
+        "galicia",
+        "asturias"
+      ],
+      "release": "2026-11",
+      "file": "123-94-c6097164bdac.pack",
+      "size": 980891,
+      "sha256": "c6097164bdac9c8ef35f73e16a85d7158d3f466bc92a01b4fd0d79093afa32c7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Ponferrada, O Barco"
+    },
+    {
+      "x": 123,
+      "y": 95,
+      "regions": [
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "123-95-5e1bb940e3bd.pack",
+      "size": 65243,
+      "sha256": "5e1bb940e3bd54617237f5b0d5ae7967a5d8826c25e95ff2bdbe06f150a3b230",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 59532,
+      "name": "Zamora, Benavente"
+    },
+    {
+      "x": 123,
+      "y": 96,
+      "regions": [
+        "castilla-y-leon",
+        "extremadura"
+      ],
+      "release": "2026-11",
+      "file": "123-96-c784befd4f11.pack",
+      "size": 421254,
+      "sha256": "c784befd4f11f4d08c92a2bb0e24194932e89956c7baa92ffec7f9e2c2a2281f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61166,
+      "name": "Salamanca, Plasencia"
+    },
+    {
+      "x": 123,
+      "y": 97,
+      "regions": [
+        "extremadura"
+      ],
+      "release": "2026-11",
+      "file": "123-97-8fa298d24ea6.pack",
+      "size": 178618,
+      "sha256": "8fa298d24ea6020fa80232732896ee263cbdcca0aaf128fc280619a0fe1546cf",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61438,
+      "name": "Badajoz, C\u00E1ceres"
+    },
+    {
+      "x": 123,
+      "y": 98,
+      "regions": [
+        "extremadura",
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "123-98-2435213d32a4.pack",
+      "size": 88745,
+      "sha256": "2435213d32a40fcaa495da26ffb8093294ddd53bed4d6188b9a487980de8beaf",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65279,
+      "name": "Almendralejo, Zafra"
+    },
+    {
+      "x": 123,
+      "y": 99,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "123-99-2929c401b612.pack",
+      "size": 68094,
+      "sha256": "2929c401b612155ed59afbdea53a0e7aed0c11fa0ee9d9a7af82f9ad59c7243e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61439,
+      "name": "Sevilla, Jerez de la Frontera"
+    },
+    {
+      "x": 123,
+      "y": 100,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "123-100-6a0c9d8c2976.pack",
+      "size": 12834,
+      "sha256": "6a0c9d8c2976134ca7b4dcb82d9dd2e410ea9b0b92ee32cf5c42b6df10ece630",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 206,
+      "name": "C\u00E1diz, San Fernando"
+    },
+    {
+      "x": 124,
+      "y": 93,
+      "regions": [
+        "asturias",
+        "cantabria",
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "124-93-85749302de9d.pack",
+      "size": 1127346,
+      "sha256": "85749302de9d1383b297193f98ab08c2f851ab0024c3d0e8dd13024858459b27",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65520,
+      "name": "La Pola Llaviana / Pola de Laviana, Villaviciosa"
+    },
+    {
+      "x": 124,
+      "y": 94,
+      "regions": [
+        "castilla-y-leon",
+        "cantabria",
+        "asturias"
+      ],
+      "release": "2026-11",
+      "file": "124-94-b008d7316a6d.pack",
+      "size": 520336,
+      "sha256": "b008d7316a6d2b0e134e1ec402075a973d8dec7147a975c72c2571b74dd117f1",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Le\u00F3n, Trobajo del Camino"
+    },
+    {
+      "x": 124,
+      "y": 95,
+      "regions": [
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "124-95-82625e8ce57e.pack",
+      "size": 111068,
+      "sha256": "82625e8ce57ec708912ad40ec1552445bf257bc8388dfafc1d4aab101e063226",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Valladolid, Palencia"
+    },
+    {
+      "x": 124,
+      "y": 96,
+      "regions": [
+        "castilla-y-leon",
+        "castilla-la-mancha",
+        "extremadura",
+        "madrid"
+      ],
+      "release": "2026-11",
+      "file": "124-96-fdded08bdbbd.pack",
+      "size": 1179768,
+      "sha256": "fdded08bdbbd9603ec13fdbd348d80b9e113f5b260db0641daf6e168846e1b32",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Talavera de la Reina, \u00C1vila"
+    },
+    {
+      "x": 124,
+      "y": 97,
+      "regions": [
+        "castilla-la-mancha",
+        "extremadura"
+      ],
+      "release": "2026-11",
+      "file": "124-97-cafb2ab14a47.pack",
+      "size": 166888,
+      "sha256": "cafb2ab14a47392f97bce8c538ef3773af2f1b89e478bb8e609651dc56a2e66e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Navalmoral de la Mata, La Puebla de Montalb\u00E1n"
+    },
+    {
+      "x": 124,
+      "y": 98,
+      "regions": [
+        "andalucia",
+        "castilla-la-mancha",
+        "extremadura"
+      ],
+      "release": "2026-11",
+      "file": "124-98-924d19f9f286.pack",
+      "size": 68812,
+      "sha256": "924d19f9f2865f62b003330a7d77d33c567354a42a3002f765da30a23716376c",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "C\u00F3rdoba, Pozoblanco"
+    },
+    {
+      "x": 124,
+      "y": 99,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "124-99-88086e0fc920.pack",
+      "size": 295086,
+      "sha256": "88086e0fc92029336a97bb195084441315228710cc2f42e2737d0b801ac16e56",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "M\u00E1laga, Torremolinos",
+      "de": "Malaga, Torremolinos"
+    },
+    {
+      "x": 124,
+      "y": 100,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "124-100-26a14f512468.pack",
+      "size": 94493,
+      "sha256": "26a14f5124689d5898024c684f942678e99af06692405dec16888ade42a20e77",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 255,
+      "name": "Algeciras, Fuengirola"
+    },
+    {
+      "x": 125,
+      "y": 93,
+      "regions": [
+        "cantabria",
+        "pais-vasco",
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "125-93-61d6d8f911b9.pack",
+      "size": 517524,
+      "sha256": "61d6d8f911b99507c0d3b78568e2596bf88f8466468af29c3757468e107664a2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65328,
+      "name": "Bilbao, Santander"
+    },
+    {
+      "x": 125,
+      "y": 94,
+      "regions": [
+        "castilla-y-leon",
+        "la-rioja",
+        "pais-vasco",
+        "cantabria"
+      ],
+      "release": "2026-11",
+      "file": "125-94-4032875e7a73.pack",
+      "size": 565332,
+      "sha256": "4032875e7a73ffc5b35333dfae1e672929a08805e5009250c3fc8aca5acea7db",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Burgos, Miranda de Ebro"
+    },
+    {
+      "x": 125,
+      "y": 95,
+      "regions": [
+        "castilla-y-leon",
+        "castilla-la-mancha",
+        "madrid",
+        "la-rioja"
+      ],
+      "release": "2026-11",
+      "file": "125-95-7d9fbe4a2977.pack",
+      "size": 685567,
+      "sha256": "7d9fbe4a2977a3d371307960cd1d5e351093bbf7b4026928e23e627a23462b26",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Aranda de Duero, Pe\u00F1afiel"
+    },
+    {
+      "x": 125,
+      "y": 96,
+      "regions": [
+        "madrid",
+        "castilla-la-mancha",
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "125-96-c4437e82a20d.pack",
+      "size": 1473879,
+      "sha256": "c4437e82a20d23911a0b7a7496350d9156216af0bbfbe2d2c8daab8489694ca9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Madrid, Alcal\u00E1 de Henares"
+    },
+    {
+      "x": 125,
+      "y": 97,
+      "regions": [
+        "castilla-la-mancha"
+      ],
+      "release": "2026-11",
+      "file": "125-97-b177db8ee9c0.pack",
+      "size": 145959,
+      "sha256": "b177db8ee9c0776dc2f37f09638c05f645995f24758514ff46aae8e80078f6a9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Ciudad Real, Toledo"
+    },
+    {
+      "x": 125,
+      "y": 98,
+      "regions": [
+        "andalucia",
+        "castilla-la-mancha"
+      ],
+      "release": "2026-11",
+      "file": "125-98-e99b19da44d5.pack",
+      "size": 294608,
+      "sha256": "e99b19da44d5f229f3a6dd20601b4b391d2e3475e7fd0a428929ef1407042c78",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Ja\u00E9n, Linares"
+    },
+    {
+      "x": 125,
+      "y": 99,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "125-99-8b7fc9f20ec6.pack",
+      "size": 1198043,
+      "sha256": "8b7fc9f20ec62abc15c28fe8bbc58f545cb7a52d7c6f0298b6f6789385c7eb7a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Granada, Motril"
+    },
+    {
+      "x": 125,
+      "y": 100,
+      "regions": [
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "125-100-d1ec3da61eec.pack",
+      "size": 240,
+      "sha256": "d1ec3da61eecb2fbcb8e287e1ee83273e42392d69344c603cc736fc653dc6360",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3327
+    },
+    {
+      "x": 126,
+      "y": 93,
+      "regions": [
+        "pais-vasco",
+        "navarra"
+      ],
+      "release": "2026-11",
+      "file": "126-93-1edd0aa691f5.pack",
+      "size": 689092,
+      "sha256": "1edd0aa691f5c6672cd4b7e47f2ec0b43709e883bfa979d2f83c01d8db1a1dd7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 30464,
+      "name": "Donostia / San Sebasti\u00E1n, Irun"
+    },
+    {
+      "x": 126,
+      "y": 94,
+      "regions": [
+        "navarra",
+        "la-rioja",
+        "pais-vasco",
+        "castilla-y-leon"
+      ],
+      "release": "2026-11",
+      "file": "126-94-72b02c88c41a.pack",
+      "size": 1553193,
+      "sha256": "72b02c88c41a1e337a09e50d38222b81e2cdcbd904348a1055c44fa09ccc205c",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65527,
+      "name": "Vitoria-Gasteiz, Pamplona / Iru\u00F1a"
+    },
+    {
+      "x": 126,
+      "y": 95,
+      "regions": [
+        "castilla-y-leon",
+        "aragon",
+        "castilla-la-mancha",
+        "navarra",
+        "la-rioja"
+      ],
+      "release": "2026-11",
+      "file": "126-95-91e9cbbec552.pack",
+      "size": 234892,
+      "sha256": "91e9cbbec55247e3aa3d8985265030d28aa13bb290a4e70c7016af22149a27bf",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Soria, Calatayud"
+    },
+    {
+      "x": 126,
+      "y": 96,
+      "regions": [
+        "castilla-la-mancha",
+        "aragon"
+      ],
+      "release": "2026-11",
+      "file": "126-96-da611dfd2e02.pack",
+      "size": 492347,
+      "sha256": "da611dfd2e02929664d350da70df83bc8f36dadc5373ff16c8eb7b65ed14560e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Cuenca, Molina de Arag\u00F3n"
+    },
+    {
+      "x": 126,
+      "y": 97,
+      "regions": [
+        "castilla-la-mancha",
+        "valencia"
+      ],
+      "release": "2026-11",
+      "file": "126-97-b33397d705ff.pack",
+      "size": 202803,
+      "sha256": "b33397d705ffbeb668f32630ffeb65f588a1aa76184c417a1208f2ce94e11ab6",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Albacete, Villarrobledo"
+    },
+    {
+      "x": 126,
+      "y": 98,
+      "regions": [
+        "castilla-la-mancha",
+        "murcia",
+        "andalucia"
+      ],
+      "release": "2026-11",
+      "file": "126-98-686bc2283041.pack",
+      "size": 520362,
+      "sha256": "686bc228304178ea06048b66a22c664a91e31e1a4fdc2f920d49b8c123845d76",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Cieza, Totana"
+    },
+    {
+      "x": 126,
+      "y": 99,
+      "regions": [
+        "andalucia",
+        "murcia"
+      ],
+      "release": "2026-11",
+      "file": "126-99-1bddd2f67ed7.pack",
+      "size": 290574,
+      "sha256": "1bddd2f67ed748bb32b0f031b3f45d92b001437bdeed232f4dc284ea1bc15594",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 14335,
+      "name": "Almer\u00EDa, Roquetas de Mar"
+    },
+    {
+      "x": 127,
+      "y": 94,
+      "regions": [
+        "aragon",
+        "navarra"
+      ],
+      "release": "2026-11",
+      "file": "127-94-764928c56680.pack",
+      "size": 279714,
+      "sha256": "764928c56680f2c2c2388a84b6da1fa2c2363d85e2b31582773c7d66964a3868",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65328,
+      "name": "Huesca, Ejea de los Caballeros"
+    },
+    {
+      "x": 127,
+      "y": 95,
+      "regions": [
+        "aragon",
+        "navarra"
+      ],
+      "release": "2026-11",
+      "file": "127-95-0af9d12dbf3b.pack",
+      "size": 210557,
+      "sha256": "0af9d12dbf3b532bf895a7624ed12f231b7a3be3a0c72d7bafbc94c0127b50ca",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Zaragoza, Utebo",
+      "de": "Saragossa, Utebo"
+    },
+    {
+      "x": 127,
+      "y": 96,
+      "regions": [
+        "aragon",
+        "valencia",
+        "castilla-la-mancha"
+      ],
+      "release": "2026-11",
+      "file": "127-96-31f36f6931d3.pack",
+      "size": 931534,
+      "sha256": "31f36f6931d314af4155f3224af656866257b0b808e1c953e132901f683eb14a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Castell\u00F3 de la Plana / Castell\u00F3n de la Plana, Vila-real"
+    },
+    {
+      "x": 127,
+      "y": 97,
+      "regions": [
+        "valencia",
+        "castilla-la-mancha",
+        "aragon"
+      ],
+      "release": "2026-11",
+      "file": "127-97-5a0d3bbba4d9.pack",
+      "size": 1450433,
+      "sha256": "5a0d3bbba4d97ca96cd78fa1cca132cf217da53988e7e7326d452712c04724bf",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Val\u00E8ncia, Torrent",
+      "de": "Valencia, Torrent"
+    },
+    {
+      "x": 127,
+      "y": 98,
+      "regions": [
+        "valencia",
+        "murcia",
+        "castilla-la-mancha"
+      ],
+      "release": "2026-11",
+      "file": "127-98-980a2eba2222.pack",
+      "size": 1584766,
+      "sha256": "980a2eba2222921d0a11304f0ba46fc2da21d5c663b4fd143e1820fff52c6adc",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 30719,
+      "name": "Murcia, Alacant / Alicante",
+      "de": "Murcia, Alicante"
+    },
+    {
+      "x": 127,
+      "y": 99,
+      "regions": [
+        "murcia"
+      ],
+      "release": "2026-11",
+      "file": "127-99-c5af0b5b0c04.pack",
+      "size": 50548,
+      "sha256": "c5af0b5b0c0434f47ab7be74579ca41ecbdaf6492338d72de34a4fef58c45483",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 23,
+      "name": "Cartagena, La Uni\u00F3n"
+    },
+    {
+      "x": 128,
+      "y": 94,
+      "regions": [
+        "aragon",
+        "cataluna"
+      ],
+      "release": "2026-11",
+      "file": "128-94-d81ee20f9ecf.pack",
+      "size": 880481,
+      "sha256": "d81ee20f9ecf80d3c69b14a95d6e6d1b66d9535d0c2afd32e909b62747829b7a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65280,
+      "name": "Barbastro, Tremp"
+    },
+    {
+      "x": 128,
+      "y": 95,
+      "regions": [
+        "cataluna",
+        "aragon"
+      ],
+      "release": "2026-11",
+      "file": "128-95-7aebf7342cdf.pack",
+      "size": 1817733,
+      "sha256": "7aebf7342cdf635cc00f32e2ed5a02bf5c0bed06a4851354b057c26479ea4703",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Lleida, Reus"
+    },
+    {
+      "x": 128,
+      "y": 96,
+      "regions": [
+        "valencia",
+        "cataluna",
+        "aragon"
+      ],
+      "release": "2026-11",
+      "file": "128-96-39ff2f96b521.pack",
+      "size": 896128,
+      "sha256": "39ff2f96b5214e96416f8da254cf1dc54e67c90ec41d78ac7f618e7335353359",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Benicarl\u00F3, Tortosa"
+    },
+    {
+      "x": 128,
+      "y": 97,
+      "regions": [
+        "valencia",
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "128-97-a4b385140aee.pack",
+      "size": 65600,
+      "sha256": "a4b385140aee9b42da82f3002bff7daffd9d7f6c449161059de65d1f281535f0",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 39735,
+      "name": "D\u00E9nia, Sant Antoni de Portmany"
+    },
+    {
+      "x": 128,
+      "y": 98,
+      "regions": [
+        "islas-baleares",
+        "valencia"
+      ],
+      "release": "2026-11",
+      "file": "128-98-83b3b9c5c807.pack",
+      "size": 221702,
+      "sha256": "83b3b9c5c80724c5273fbf0e6ccab8f2deff6984e1163cab41048c4f1161f361",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 137,
+      "name": "X\u00E0bia / J\u00E1vea, Calp"
+    },
+    {
+      "x": 129,
+      "y": 94,
+      "regions": [
+        "cataluna"
+      ],
+      "release": "2026-11",
+      "file": "129-94-84ff2ef56c8a.pack",
+      "size": 1198424,
+      "sha256": "84ff2ef56c8ac498d385c6a896e4f890564036965503e4a5dcf275cdd1c8c338",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61440,
+      "name": "Olot, Banyoles"
+    },
+    {
+      "x": 129,
+      "y": 95,
+      "regions": [
+        "cataluna"
+      ],
+      "release": "2026-11",
+      "file": "129-95-14d74cf8fe9e.pack",
+      "size": 3196509,
+      "sha256": "14d74cf8fe9ed6cdc15546f0ca4c9f41bb59ac8da7ec6f6eca6282a714b73824",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Barcelona, l\u0027Hospitalet de Llobregat"
+    },
+    {
+      "x": 129,
+      "y": 97,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "129-97-a0c91884b7bc.pack",
+      "size": 247700,
+      "sha256": "a0c91884b7bca1ee329b3b52da99110675845e64c40a035845a56a114934e8ff",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65534,
+      "name": "Palma, Eivissa",
+      "de": "Palma, Ibiza"
+    },
+    {
+      "x": 129,
+      "y": 98,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "129-98-540fc73cb188.pack",
+      "size": 4903,
+      "sha256": "540fc73cb188ab420149534fa519fd5f34f18515544055ddc000c4097afbddab",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 23
+    },
+    {
+      "x": 130,
+      "y": 85,
+      "regions": [
+        "belgium"
+      ],
+      "release": "2026-11",
+      "file": "130-85-1ddd8e2ec570.pack",
+      "size": 149583,
+      "sha256": "1ddd8e2ec570e56877297accf0a1e63f34931410f8df57575323d6bbc6ac1802",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61200,
+      "name": "Gent, Brugge",
+      "de": "Gent, Br\u00FCgge"
+    },
+    {
+      "x": 130,
+      "y": 86,
+      "regions": [
+        "belgium"
+      ],
+      "release": "2026-11",
+      "file": "130-86-f594d8a8f997.pack",
+      "size": 67582,
+      "sha256": "f594d8a8f9971dcb47564c3610dbd80f9f2ccf8aca5f6a0ed7219a471a3c24e5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12,
+      "name": "Mons, La Louvi\u00E8re",
+      "de": "Bergen, La Louvi\u00E8re"
+    },
+    {
+      "x": 130,
+      "y": 94,
+      "regions": [
+        "cataluna"
+      ],
+      "release": "2026-11",
+      "file": "130-94-d482e6c89926.pack",
+      "size": 119185,
+      "sha256": "d482e6c8992617447abe99e8a866183cdf6822bebb932cce7509299a0ddb20f8",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12288,
+      "name": "Figueres, Roses"
+    },
+    {
+      "x": 130,
+      "y": 95,
+      "regions": [
+        "cataluna"
+      ],
+      "release": "2026-11",
+      "file": "130-95-9a5a7f11025f.pack",
+      "size": 222732,
+      "sha256": "9a5a7f11025f2c6369b844ba25ae45b1bf665f6d978ebba4f4cdd2449e0ebeb8",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 375,
+      "name": "Girona, Lloret de Mar"
+    },
+    {
+      "x": 130,
+      "y": 96,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "130-96-93c61f102679.pack",
+      "size": 77534,
+      "sha256": "93c61f102679f50c1b7686d9c104438a106088e6497d73548ed0792b046f65b1",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 64512,
+      "name": "Ciutadella de Menorca"
+    },
+    {
+      "x": 130,
+      "y": 97,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "130-97-7a0ab2bf537d.pack",
+      "size": 156403,
+      "sha256": "7a0ab2bf537d748a8d9cf665c35cd5afa38c2005c63ec9e3691aeffa2bf9c563",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 5119,
+      "name": "Inca, Manacor"
+    },
+    {
+      "x": 131,
+      "y": 85,
+      "regions": [
+        "belgium"
+      ],
+      "release": "2026-11",
+      "file": "131-85-95ad63975510.pack",
+      "size": 187616,
+      "sha256": "95ad639755103c94f444c1aea908ceffb492cf212730ea4895181d48bf405143",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65312,
+      "name": "Antwerpen, Bruxelles - Brussel",
+      "de": "Antwerpen, Br\u00FCssel"
+    },
+    {
+      "x": 131,
+      "y": 86,
+      "regions": [
+        "belgium"
+      ],
+      "release": "2026-11",
+      "file": "131-86-c99e2b0054e3.pack",
+      "size": 253615,
+      "sha256": "c99e2b0054e3731ed1c93064b024071afc29f2aa594db046c8ab3bd1bbae8c3d",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 52735,
+      "name": "Charleroi, Li\u00E8ge",
+      "de": "Charleroi, L\u00FCttich"
+    },
+    {
+      "x": 131,
+      "y": 96,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "131-96-4bab9cda74ee.pack",
+      "size": 5687,
+      "sha256": "4bab9cda74eee12a5a969c6eb0c59904fb70d6ea03149995ef179bf9d44a84a4",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4096
+    },
+    {
+      "x": 131,
+      "y": 97,
+      "regions": [
+        "islas-baleares"
+      ],
+      "release": "2026-11",
+      "file": "131-97-864995eda3ac.pack",
+      "size": 7807,
+      "sha256": "864995eda3aca4804e875e25fb93036ad7babb9cd5d7e148846c2b8754195a7c",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 1,
+      "name": "Ma\u00F3"
+    },
+    {
+      "x": 132,
+      "y": 82,
+      "regions": [
+        "niedersachsen"
+      ],
+      "release": "2026-11",
+      "file": "132-82-1083628f75b4.pack",
+      "size": 3198,
+      "sha256": "1083628f75b4954111f42a789fe03b377b63788753e243f549b7b1c00fe5172e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 2048,
+      "name": "Borkum"
+    },
+    {
+      "x": 132,
+      "y": 84,
+      "regions": [
+        "duesseldorf-regbez",
+        "muenster-regbez"
+      ],
+      "release": "2026-11",
+      "file": "132-84-a6faf6c2eaa6.pack",
+      "size": 50725,
+      "sha256": "a6faf6c2eaa6e820ec4f0941abf3e5a60c9678ad57dae0d925805e629ff6de67",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 49152,
+      "name": "Dorsten, Bocholt"
+    },
+    {
+      "x": 132,
+      "y": 85,
+      "regions": [
+        "duesseldorf-regbez",
+        "koeln-regbez",
+        "muenster-regbez"
+      ],
+      "release": "2026-11",
+      "file": "132-85-79d5d952b277.pack",
+      "size": 746035,
+      "sha256": "79d5d952b2775de00b905a9920cc91d20d8b2b84df5e260741d5874268d2b885",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 52428,
+      "name": "K\u00F6ln, D\u00FCsseldorf"
+    },
+    {
+      "x": 132,
+      "y": 86,
+      "regions": [
+        "rheinland-pfalz",
+        "belgium",
+        "koeln-regbez",
+        "luxembourg"
+      ],
+      "release": "2026-11",
+      "file": "132-86-9501af1198b8.pack",
+      "size": 2021694,
+      "sha256": "9501af1198b816f0bb8267198e2559146edc46f6fe77df6b14053a52f32e859f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Euskirchen, Verviers"
+    },
+    {
+      "x": 132,
+      "y": 87,
+      "regions": [
+        "luxembourg",
+        "rheinland-pfalz",
+        "saarland",
+        "belgium"
+      ],
+      "release": "2026-11",
+      "file": "132-87-9037d4fa4fff.pack",
+      "size": 844153,
+      "sha256": "9037d4fa4ffffa85f7ebf107a076772e8a97210809e30d4bc6f9a296cfe18692",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 143,
+      "name": "Saarbr\u00FCcken, Luxembourg",
+      "de": "Saarbr\u00FCcken, Luxemburg"
+    },
     {
       "x": 132,
       "y": 90,
       "regions": [
         "switzerland"
       ],
-      "release": "2026-10",
-      "file": "132-90-047eb8f48917.pack",
-      "size": 381757,
-      "sha256": "047eb8f489178c954227849b65fb8090ad8d5f17f90f6fe53c2cf7a90947fcb1",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "132-90-b44b7f909e0a.pack",
+      "size": 381716,
+      "sha256": "b44b7f909e0aab4cd19efebfc872e34cea07c35d8615ee6a5aee4c62e67efeb1",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 136,
       "name": "Gen\u00E8ve, Lausanne",
       "de": "Genf, Lausanne"
     },
     {
       "x": 133,
+      "y": 81,
+      "regions": [
+        "schleswig-holstein"
+      ],
+      "release": "2026-11",
+      "file": "133-81-bef256364c55.pack",
+      "size": 18474,
+      "sha256": "bef256364c554d9efaef2bbe66344a57cef5287aa57566302c52b84bbe5c8f1b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 52360,
+      "name": "Westerland, Helgoland"
+    },
+    {
+      "x": 133,
+      "y": 82,
+      "regions": [
+        "niedersachsen",
+        "schleswig-holstein",
+        "hamburg"
+      ],
+      "release": "2026-11",
+      "file": "133-82-401c23189abe.pack",
+      "size": 151654,
+      "sha256": "401c23189abe46bbe6bba14408ada38409174beb94bcc506df892e6ff3359fbb",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65534,
+      "name": "Wilhelmshaven, Emden"
+    },
+    {
+      "x": 133,
+      "y": 83,
+      "regions": [
+        "niedersachsen"
+      ],
+      "release": "2026-11",
+      "file": "133-83-1efcc2468036.pack",
+      "size": 283040,
+      "sha256": "1efcc2468036d81fcc940fb49769803d5f2346e2e38743a5fdb328512d257fc7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65262,
+      "name": "Oldenburg, Lingen (Ems)"
+    },
+    {
+      "x": 133,
+      "y": 84,
+      "regions": [
+        "muenster-regbez",
+        "niedersachsen",
+        "detmold-regbez",
+        "arnsberg-regbez"
+      ],
+      "release": "2026-11",
+      "file": "133-84-a550553bd7b4.pack",
+      "size": 380896,
+      "sha256": "a550553bd7b42f612f916925204b126f32885666ec4d88edea92bacab3cb92a2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65534,
+      "name": "M\u00FCnster, Hamm"
+    },
+    {
+      "x": 133,
+      "y": 85,
+      "regions": [
+        "arnsberg-regbez",
+        "koeln-regbez",
+        "duesseldorf-regbez",
+        "rheinland-pfalz",
+        "hessen",
+        "muenster-regbez"
+      ],
+      "release": "2026-11",
+      "file": "133-85-d4fc1ecc4f96.pack",
+      "size": 1858418,
+      "sha256": "d4fc1ecc4f964bbdeab25652cd36142fbaae97bf44c506e624a8bda6b605beae",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Dortmund, Bochum"
+    },
+    {
+      "x": 133,
+      "y": 86,
+      "regions": [
+        "rheinland-pfalz",
+        "hessen",
+        "koeln-regbez",
+        "arnsberg-regbez"
+      ],
+      "release": "2026-11",
+      "file": "133-86-37b10fb04429.pack",
+      "size": 2632488,
+      "sha256": "37b10fb0442989c0f7bc074be71fc753e844a50474788b11bd8aeec31fdd7cd2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Bonn, Wiesbaden"
+    },
+    {
+      "x": 133,
+      "y": 87,
+      "regions": [
+        "rheinland-pfalz",
+        "saarland",
+        "hessen",
+        "karlsruhe-regbez"
+      ],
+      "release": "2026-11",
+      "file": "133-87-a3b57b955365.pack",
+      "size": 1916280,
+      "sha256": "a3b57b955365c20ecb4ab2a3c3873fb4c0d811ebeb8feeae8e09dc07242dff98",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3583,
+      "name": "Karlsruhe, Kaiserslautern"
+    },
+    {
+      "x": 133,
+      "y": 88,
+      "regions": [
+        "freiburg-regbez",
+        "karlsruhe-regbez"
+      ],
+      "release": "2026-11",
+      "file": "133-88-a5ff9d3d59ed.pack",
+      "size": 948356,
+      "sha256": "a5ff9d3d59edb4872e3ed4cbb5d4ac4024c33efef871a4aee1f97fff32677803",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 52352,
+      "name": "Freiburg im Breisgau, Offenburg"
+    },
+    {
+      "x": 133,
       "y": 89,
       "regions": [
-        "switzerland"
+        "switzerland",
+        "freiburg-regbez"
       ],
-      "release": "2026-10",
-      "file": "133-89-66c163aa9592.pack",
-      "size": 1435922,
-      "sha256": "66c163aa959293b7c940d882e4b7b7b7e415ad2100244f8cf912590a37ed8263",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
-      "pieces": 64512,
+      "release": "2026-11",
+      "file": "133-89-bd3289bee79a.pack",
+      "size": 2340506,
+      "sha256": "bd3289bee79ac7113afbf8e9e78f7a1d97ce12d6ea0dd289e4a9a46e10c58d2f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 64716,
       "name": "Basel, Luzern"
     },
     {
@@ -127,12 +1693,12 @@
         "switzerland",
         "nord-ovest"
       ],
-      "release": "2026-10",
-      "file": "133-90-8d7163a80543.pack",
-      "size": 6808456,
-      "sha256": "8d7163a805439b678022500326206ae1acab962fa9ac6f35a3a44c78a2b82381",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "133-90-8d205a8bced1.pack",
+      "size": 6809966,
+      "sha256": "8d205a8bced113140a5dede4ddf709d0c623131e1453ae32c0a5164e02eedb11",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Bern, Thun"
     },
@@ -143,12 +1709,12 @@
         "nord-ovest",
         "switzerland"
       ],
-      "release": "2026-10",
-      "file": "133-91-b433c213e2e7.pack",
-      "size": 6883838,
-      "sha256": "b433c213e2e7f858e7446d4638f6300d92234db782514ab3ff32a3e1c95deebf",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "133-91-b4c2b4fd6adf.pack",
+      "size": 6884879,
+      "sha256": "b4c2b4fd6adf625e88b977a235fcb8f6d09324221d75919b3ea488983099fe28",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 61183,
       "name": "Biella, Settimo Torinese"
     },
@@ -158,12 +1724,12 @@
       "regions": [
         "nord-ovest"
       ],
-      "release": "2026-10",
-      "file": "133-92-77545a4a9a25.pack",
-      "size": 2825358,
-      "sha256": "77545a4a9a25fc1e23d123e85e93c50e5d116f45e1c7c3b53daa5ab614264f6a",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "133-92-e518928eaca7.pack",
+      "size": 2826263,
+      "sha256": "e518928eaca759c5865df3b4bc4e06b3b6984dc009d9a14fc266a43b77093d66",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 53247,
       "name": "Torino, Asti",
       "de": "Turin, Asti"
@@ -178,7 +1744,7 @@
       "file": "133-93-0bbbaba8d660.pack",
       "size": 362483,
       "sha256": "0bbbaba8d6609362c5417b7b9f92759aa5d919b1ffe078e72627cc9628e4811b",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 76,
       "name": "Sanremo, Imperia"
@@ -193,7 +1759,7 @@
       "file": "133-95-c092d7ee4d1a.pack",
       "size": 1527,
       "sha256": "c092d7ee4d1ad8ef7e58996ecaf4edbc5039982bf2b5d5987b1c9dcd08cddea7",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 49152
     },
@@ -207,7 +1773,7 @@
       "file": "133-96-35d50c1fd6f8.pack",
       "size": 20490,
       "sha256": "35d50c1fd6f81035ee88e9867725a6be9141a56e18583b0ef25cc16ff012f3c9",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 36044,
       "name": "S\u0027Aliguera/l\u0027Alguer/Alghero, Posthudorra/Porto Torres",
@@ -223,41 +1789,168 @@
       "file": "133-97-da1faff152f4.pack",
       "size": 34806,
       "sha256": "da1faff152f4a6d64e53a3884fad6e8ca7bdcda100283880947440ff6d971ef5",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 34952
     },
     {
       "x": 134,
+      "y": 81,
+      "regions": [
+        "schleswig-holstein"
+      ],
+      "release": "2026-11",
+      "file": "134-81-99e081fd0a17.pack",
+      "size": 206591,
+      "sha256": "99e081fd0a1751ce53109f5294c988d043bd43ccfdc1a24e4a241602afb78e7f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65520,
+      "name": "Flensburg, Rendsburg"
+    },
+    {
+      "x": 134,
+      "y": 82,
+      "regions": [
+        "niedersachsen",
+        "schleswig-holstein",
+        "hamburg",
+        "bremen"
+      ],
+      "release": "2026-11",
+      "file": "134-82-fb397a64e123.pack",
+      "size": 475930,
+      "sha256": "fb397a64e123d9c956b89e2e61ff01b16256fb62d802e909eb4873f28eba5bfa",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Bremerhaven, Elmshorn"
+    },
+    {
+      "x": 134,
+      "y": 83,
+      "regions": [
+        "niedersachsen",
+        "bremen",
+        "detmold-regbez"
+      ],
+      "release": "2026-11",
+      "file": "134-83-257a1a0398be.pack",
+      "size": 375457,
+      "sha256": "257a1a0398bed08b206db2201c80da2b23608da3fad1b9d64f39f9756543c9f2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Bremen, Delmenhorst"
+    },
+    {
+      "x": 134,
+      "y": 84,
+      "regions": [
+        "detmold-regbez",
+        "niedersachsen",
+        "arnsberg-regbez",
+        "hessen"
+      ],
+      "release": "2026-11",
+      "file": "134-84-52ea25172d7b.pack",
+      "size": 1102351,
+      "sha256": "52ea25172d7bb23c0611029676101f72be7ee039efd9686378935b6075935138",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Hannover, Bielefeld"
+    },
+    {
+      "x": 134,
+      "y": 85,
+      "regions": [
+        "hessen",
+        "arnsberg-regbez",
+        "detmold-regbez",
+        "niedersachsen"
+      ],
+      "release": "2026-11",
+      "file": "134-85-dcc2affe86bc.pack",
+      "size": 2121515,
+      "sha256": "dcc2affe86bc3cf7805f32bfb4f58f3b0c9ceabbacd7d3cffad7c35e010e476b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Kassel, Marburg"
+    },
+    {
+      "x": 134,
       "y": 86,
       "regions": [
+        "hessen",
         "unterfranken"
       ],
-      "release": "2026-10",
-      "file": "134-86-d441e0a1af78.pack",
-      "size": 217856,
-      "sha256": "d441e0a1af7881f2435fa1f7e6ae77322a82c6190083ccf12a1a227e6462d1cf",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 49152,
-      "name": "Aschaffenburg, Lohr am Main"
+      "release": "2026-11",
+      "file": "134-86-e072f98e2a41.pack",
+      "size": 2213142,
+      "sha256": "e072f98e2a410af18261012d31f1ed467de420516b0597a77c0161d845e54a53",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Frankfurt am Main, Darmstadt"
+    },
+    {
+      "x": 134,
+      "y": 87,
+      "regions": [
+        "stuttgart-regbez",
+        "karlsruhe-regbez",
+        "hessen",
+        "unterfranken",
+        "rheinland-pfalz"
+      ],
+      "release": "2026-11",
+      "file": "134-87-d7058332589b.pack",
+      "size": 4136304,
+      "sha256": "d7058332589b89a2be5adc3afd0c05b75e825c15d5917d8183e5ff2fc2501395",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Mannheim, Ludwigshafen am Rhein"
+    },
+    {
+      "x": 134,
+      "y": 88,
+      "regions": [
+        "tuebingen-regbez",
+        "stuttgart-regbez",
+        "karlsruhe-regbez",
+        "freiburg-regbez"
+      ],
+      "release": "2026-11",
+      "file": "134-88-f980d56a1542.pack",
+      "size": 4408019,
+      "sha256": "f980d56a1542310258fc4328ba7622db38f60c0380c06d65075110ce086f78e3",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Stuttgart, Pforzheim"
     },
     {
       "x": 134,
       "y": 89,
       "regions": [
         "switzerland",
-        "austria"
+        "tuebingen-regbez",
+        "freiburg-regbez",
+        "austria",
+        "schwaben",
+        "liechtenstein"
       ],
-      "release": "2026-10",
-      "file": "134-89-eed8e609efe9.pack",
-      "size": 2985592,
-      "sha256": "eed8e609efe922be96f7657540f46ad6352e5fcac3caa79c5c37755652421844",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
-      "pieces": 32512,
-      "name": "Z\u00FCrich, St. Gallen",
-      "de": "Z\u00FCrich, Sankt Gallen"
+      "release": "2026-11",
+      "file": "134-89-5736fe8214c2.pack",
+      "size": 4672936,
+      "sha256": "5736fe8214c25a6443955eca9d6b794b4a3cb08570dd87d7589cdda503891ab4",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Z\u00FCrich, Konstanz"
     },
     {
       "x": 134,
@@ -267,12 +1960,12 @@
         "nord-ovest",
         "austria"
       ],
-      "release": "2026-10",
-      "file": "134-90-c29d03c698ff.pack",
-      "size": 6206419,
-      "sha256": "c29d03c698ff07166c8c44d5735c9e16e41b2f83099319cacd7ac9bf48fb5ccb",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "134-90-ecfe7f96164d.pack",
+      "size": 6211714,
+      "sha256": "ecfe7f96164dc8072a263bba7b0eb2bb99c5ed9b954ce09931afaf55075a6a33",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Bellinzona, Chur"
     },
@@ -284,12 +1977,12 @@
         "switzerland",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "134-91-2785bdcb1f99.pack",
-      "size": 5176727,
-      "sha256": "2785bdcb1f9990b77d451473412970bee5818f21f83ef2fb81231161d35f500f",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "134-91-31783b27bf7a.pack",
+      "size": 5179101,
+      "sha256": "31783b27bf7a8492f886a9ae2ef1582625310209aa1ae29d235e72aa74d096db",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Milano, Bergamo",
       "de": "Mailand, Bergamo"
@@ -302,12 +1995,12 @@
         "nord-est",
         "centro"
       ],
-      "release": "2026-10",
-      "file": "134-92-cc41ca377137.pack",
-      "size": 2649562,
-      "sha256": "cc41ca3771379281c5382ca42e121a6552f88708766bd64fc2428b63b54d666e",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "134-92-03434c9c0a28.pack",
+      "size": 2649415,
+      "sha256": "03434c9c0a284d622ad4d4d4124a171f7f06e8b9e4e159521c3a1d27eba18f1a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Genova, Piacenza",
       "de": "Genua, Piacenza"
@@ -323,7 +2016,7 @@
       "file": "134-93-c39e0645cbdd.pack",
       "size": 16709,
       "sha256": "c39e0645cbddd1b4968d10fe637b28d5812f0eaeb6aff167a014eebd120ad755",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 34831
     },
@@ -337,7 +2030,7 @@
       "file": "134-95-fa66cb2c6bcb.pack",
       "size": 53453,
       "sha256": "fa66cb2c6bcb55a92582cf1c14403e19e1cc5c23eb2497a724b6cfc53bfe7da5",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 61440,
       "name": "Madalena/La Maddalena, Alzach\u00E8na/Arzachena"
@@ -348,12 +2041,12 @@
       "regions": [
         "isole"
       ],
-      "release": "2026-10",
-      "file": "134-96-82510fee0013.pack",
-      "size": 773898,
-      "sha256": "82510fee0013b212d8271df4cbd470407e5128a6b94883b9fafa2f6c3c25efdd",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "134-96-242d45e343e5.pack",
+      "size": 773263,
+      "sha256": "242d45e343e5b14479a6bc0baa2b3caef151976892f913382378acf706939be5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "T\u00E0ttari/Sassari, Terranoa/Olbia",
       "de": "Sassari, Terranoa/Olbia"
@@ -368,7 +2061,7 @@
       "file": "134-97-e3e64e8bffcb.pack",
       "size": 425420,
       "sha256": "e3e64e8bffcb5e5d46e6790b6ee1f419d9226d02311785695a6cb4b85e3fe824",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65535,
       "name": "Casteddu/Cagliari, Cuartu Sant\u0027Aleni/Quartu Sant\u0027Elena",
@@ -376,18 +2069,105 @@
     },
     {
       "x": 135,
+      "y": 81,
+      "regions": [
+        "schleswig-holstein"
+      ],
+      "release": "2026-11",
+      "file": "135-81-84c93b1a3ec5.pack",
+      "size": 131735,
+      "sha256": "84c93b1a3ec560c31b7424a6997fa32de987df46c92bbf379b803492a0adfbc3",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65296,
+      "name": "Kiel, Kronshagen"
+    },
+    {
+      "x": 135,
+      "y": 82,
+      "regions": [
+        "schleswig-holstein",
+        "mecklenburg-vorpommern",
+        "hamburg",
+        "niedersachsen"
+      ],
+      "release": "2026-11",
+      "file": "135-82-b4645e142e29.pack",
+      "size": 379632,
+      "sha256": "b4645e142e29b843e407888d5b6aba9dabe58617a6c8069702e3708b0b8ace53",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Hamburg, L\u00FCbeck"
+    },
+    {
+      "x": 135,
+      "y": 83,
+      "regions": [
+        "niedersachsen",
+        "sachsen-anhalt",
+        "mecklenburg-vorpommern"
+      ],
+      "release": "2026-11",
+      "file": "135-83-e7a958179a89.pack",
+      "size": 316702,
+      "sha256": "e7a958179a894143b0748f9f42a0012690726b44fe77549502fa80a2715e8c93",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "L\u00FCneburg, Celle"
+    },
+    {
+      "x": 135,
+      "y": 84,
+      "regions": [
+        "niedersachsen",
+        "sachsen-anhalt",
+        "thueringen"
+      ],
+      "release": "2026-11",
+      "file": "135-84-dd56fbb26f51.pack",
+      "size": 1109397,
+      "sha256": "dd56fbb26f51c3a3c62aaa42412afff247b6a759e3fcba5b758e153accc3c819",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Braunschweig, Wolfsburg"
+    },
+    {
+      "x": 135,
+      "y": 85,
+      "regions": [
+        "thueringen",
+        "hessen",
+        "niedersachsen",
+        "sachsen-anhalt"
+      ],
+      "release": "2026-11",
+      "file": "135-85-38881b867630.pack",
+      "size": 1244213,
+      "sha256": "38881b8676301c8608bf10ff9039bbd3fafa69179668fa94a8c105d5b52e4dbc",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Erfurt, G\u00F6ttingen"
+    },
+    {
+      "x": 135,
       "y": 86,
       "regions": [
         "unterfranken",
-        "oberfranken"
+        "thueringen",
+        "oberfranken",
+        "hessen"
       ],
-      "release": "2026-10",
-      "file": "135-86-f9cc2035fae4.pack",
-      "size": 1043701,
-      "sha256": "f9cc2035fae47533de82ca006b7fce9770fdfac627ee033c080fbc9a331f10cc",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 64256,
+      "release": "2026-11",
+      "file": "135-86-dbb57030036a.pack",
+      "size": 1885381,
+      "sha256": "dbb57030036ac8c9688d55ba9d1787aec916bd912bfa7b623236b6fcccce098f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
       "name": "Bamberg, Schweinfurt"
     },
     {
@@ -395,19 +2175,20 @@
       "y": 87,
       "regions": [
         "mittelfranken",
+        "stuttgart-regbez",
         "unterfranken",
         "oberfranken",
         "schwaben",
         "oberbayern",
         "oberpfalz"
       ],
-      "release": "2026-10",
-      "file": "135-87-847bd178ca11.pack",
-      "size": 1266799,
-      "sha256": "847bd178ca1195e76a249a592c3caeeaf519b94d1ae802941a79165ef8f01706",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 52975,
+      "release": "2026-11",
+      "file": "135-87-05c97614481a.pack",
+      "size": 1870999,
+      "sha256": "05c97614481a730facfde16c3dbf42274807c17cfef0c22f9645f604ac19a138",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
       "name": "N\u00FCrnberg, F\u00FCrth"
     },
     {
@@ -416,16 +2197,18 @@
       "regions": [
         "schwaben",
         "oberbayern",
+        "stuttgart-regbez",
+        "tuebingen-regbez",
         "mittelfranken"
       ],
-      "release": "2026-10",
-      "file": "135-88-e21517ac928e.pack",
-      "size": 610122,
-      "sha256": "e21517ac928e8fd0698eea4f10966ced9835bd0ca0fb9aa10fc717d8c953439b",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 61132,
-      "name": "Augsburg, Neu-Ulm"
+      "release": "2026-11",
+      "file": "135-88-257634e94f95.pack",
+      "size": 1473907,
+      "sha256": "257634e94f95f00bf16b370ce2ce4cd36cfa6caf16623faf655d38fb6dec1056",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Augsburg, Ulm"
     },
     {
       "x": 135,
@@ -433,15 +2216,16 @@
       "regions": [
         "austria",
         "schwaben",
-        "oberbayern"
+        "oberbayern",
+        "tuebingen-regbez"
       ],
-      "release": "2026-10",
-      "file": "135-89-25ec581999d5.pack",
-      "size": 4566164,
-      "sha256": "25ec581999d551a2867e836a0e7d32610c69553bf709ec9e3b84a9cf4e77dd45",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 65518,
+      "release": "2026-11",
+      "file": "135-89-4dd032f9876a.pack",
+      "size": 4763424,
+      "sha256": "4dd032f9876ae31d4a620c49a752a13b84f3ac9ea4be18e0aaa6872895d7db14",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
       "name": "Kempten (Allg\u00E4u), Memmingen"
     },
     {
@@ -453,12 +2237,12 @@
         "switzerland",
         "austria"
       ],
-      "release": "2026-10",
-      "file": "135-90-1efd04beb37f.pack",
-      "size": 5790831,
-      "sha256": "1efd04beb37f9eb18fa21cc033ba9c406a0b93137e5ddff6ec8fbbae3816d0d0",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "135-90-45667c4f07b6.pack",
+      "size": 5791771,
+      "sha256": "45667c4f07b630aa7d6282ee519613c44a1f07c39b418c6d618a0973f365f986",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Merano - Meran, Sondrio",
       "de": "Meran, Sondrio"
@@ -470,12 +2254,12 @@
         "nord-ovest",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "135-91-84782d00a95b.pack",
-      "size": 5680268,
-      "sha256": "84782d00a95ba54ba2100304288499be4dbbb3b1c747947a662634e9bddaac59",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "135-91-484f920fa36e.pack",
+      "size": 5681558,
+      "sha256": "484f920fa36e483a77b94d349cf1846fbb59b4fdf8b82d9a945d62d4fa052f5a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Verona, Brescia"
     },
@@ -487,12 +2271,12 @@
         "centro",
         "nord-ovest"
       ],
-      "release": "2026-10",
-      "file": "135-92-00b0d809058e.pack",
-      "size": 1227529,
-      "sha256": "00b0d809058ebc325dcca2418737e47d7f9010defccccf9cf95760ae863485a6",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "135-92-6c3d7c12c4f7.pack",
+      "size": 1229162,
+      "sha256": "6c3d7c12c4f7e21accd484779626f4a044d9e31d8222b58f1716ea589abba5c3",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Parma, Modena"
     },
@@ -503,12 +2287,12 @@
         "centro",
         "nord-ovest"
       ],
-      "release": "2026-10",
-      "file": "135-93-56e032042aae.pack",
-      "size": 1141682,
-      "sha256": "56e032042aaed4810f14962dfaadca509717bcfc644bde4826ea364ffcc76c0f",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "135-93-44e7e877db5d.pack",
+      "size": 1146626,
+      "sha256": "44e7e877db5dd7c5749a8e2e3810d8571aac915d6141b79ed11330a1d38ba9dd",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Prato, Livorno"
     },
@@ -522,26 +2306,112 @@
       "file": "135-94-fec175bb5287.pack",
       "size": 222107,
       "sha256": "fec175bb5287700caa6030aeb7c3cbeb07aac8fb726261f007fff91b177ebb8b",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 61439,
       "name": "Grosseto, Piombino"
     },
     {
       "x": 136,
+      "y": 81,
+      "regions": [
+        "mecklenburg-vorpommern",
+        "schleswig-holstein"
+      ],
+      "release": "2026-11",
+      "file": "136-81-1b74438e29be.pack",
+      "size": 15258,
+      "sha256": "1b74438e29be635fd4beb5f17add9caa95be86e45500efd3492152f09496ec17",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 63488,
+      "name": "Ribnitz-Damgarten, Graal-M\u00FCritz"
+    },
+    {
+      "x": 136,
+      "y": 82,
+      "regions": [
+        "mecklenburg-vorpommern",
+        "brandenburg",
+        "schleswig-holstein"
+      ],
+      "release": "2026-11",
+      "file": "136-82-b3602b20eb00.pack",
+      "size": 111948,
+      "sha256": "b3602b20eb00b28d3126b167055b855a95e88b7ac56c9773e5c394506c43f986",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Rostock, Schwerin"
+    },
+    {
+      "x": 136,
+      "y": 83,
+      "regions": [
+        "brandenburg",
+        "sachsen-anhalt",
+        "mecklenburg-vorpommern",
+        "niedersachsen"
+      ],
+      "release": "2026-11",
+      "file": "136-83-f7d1c8db8832.pack",
+      "size": 306124,
+      "sha256": "f7d1c8db8832389a1bbbcdef1dcbb41d2c4c7f5a2cea88441d8d51c07f45c383",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Stendal, Rathenow"
+    },
+    {
+      "x": 136,
+      "y": 84,
+      "regions": [
+        "sachsen-anhalt",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "136-84-3aface5772da.pack",
+      "size": 461005,
+      "sha256": "3aface5772daa5130604933d70ffa110e82cc62046247dfdc4bf09356598a524",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Magdeburg, Brandenburg an der Havel"
+    },
+    {
+      "x": 136,
+      "y": 85,
+      "regions": [
+        "sachsen-anhalt",
+        "thueringen",
+        "sachsen"
+      ],
+      "release": "2026-11",
+      "file": "136-85-2aa20ad4dd12.pack",
+      "size": 782592,
+      "sha256": "2aa20ad4dd123d42d0c3786e4171b180ae616384937be3705912ab41ce030830",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Leipzig, Halle (Saale)"
+    },
+    {
+      "x": 136,
       "y": 86,
       "regions": [
         "oberfranken",
+        "thueringen",
+        "sachsen",
         "oberpfalz"
       ],
-      "release": "2026-10",
-      "file": "136-86-a083f87f5715.pack",
-      "size": 336441,
-      "sha256": "a083f87f57151438c850fa6ad26af4a0915586c314a6fd9917942ff4ef6aa431",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 29440,
-      "name": "Bayreuth, Hof"
+      "release": "2026-11",
+      "file": "136-86-baf3a4dd0bbd.pack",
+      "size": 716901,
+      "sha256": "baf3a4dd0bbdc44df39a53cc9b3e170dd7f43ac45b84884cf9ff3f1473896b31",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 29503,
+      "name": "Zwickau, Bayreuth"
     },
     {
       "x": 136,
@@ -553,12 +2423,12 @@
         "niederbayern",
         "oberbayern"
       ],
-      "release": "2026-10",
-      "file": "136-87-21d145cbd49e.pack",
-      "size": 1052889,
-      "sha256": "21d145cbd49efccef45e55712e416299b1dd626dcbac5efe1c6599aac07efa1d",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "136-87-c423ab1f99fe.pack",
+      "size": 1053075,
+      "sha256": "c423ab1f99fe07a434d3fce922fc1f032c474707cc63624473376b40c59fe5e9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65399,
       "name": "Regensburg, Amberg"
     },
@@ -570,12 +2440,12 @@
         "niederbayern",
         "oberpfalz"
       ],
-      "release": "2026-10",
-      "file": "136-88-75e6fffe9826.pack",
-      "size": 698958,
-      "sha256": "75e6fffe9826e17e61ce7a48e2f6c9205f07e4a7722b919b6925737dbf57df0e",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "136-88-6fa1579c9f9d.pack",
+      "size": 699176,
+      "sha256": "6fa1579c9f9d200ec020ef665dcb3bd51988f4dd66305c204527af0d2b9f0d5f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "M\u00FCnchen, Ingolstadt"
     },
@@ -587,12 +2457,12 @@
         "oberbayern",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "136-89-b7019ddf7d45.pack",
-      "size": 5241421,
-      "sha256": "b7019ddf7d4582b42434fba671cd01c7ffe6b42d3008bcb6b9c59815cefb3223",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "136-89-72fb290e3f0f.pack",
+      "size": 5242168,
+      "sha256": "72fb290e3f0f5c9fa5c4250934299990e42a40146cf11d4f3074fa1879e84c6e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Innsbruck, Rosenheim"
     },
@@ -603,12 +2473,12 @@
         "nord-est",
         "austria"
       ],
-      "release": "2026-10",
-      "file": "136-90-55d1afc14d20.pack",
-      "size": 6339197,
-      "sha256": "55d1afc14d2037641a60ab012371fbb7adc066eb07e4ea0ef2701663e801e136",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "136-90-e92c557ae3b0.pack",
+      "size": 6343085,
+      "sha256": "e92c557ae3b0b448e11efdc314b336d32faf7e26253fd23a7f01d29c8d0da7e6",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Bolzano - Bozen, Belluno",
       "de": "Bozen, Belluno"
@@ -619,12 +2489,12 @@
       "regions": [
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "136-91-1d1d19a2bef4.pack",
-      "size": 1876368,
-      "sha256": "1d1d19a2bef439e025604c5c172e9f57a0a4170ccf7e1b5d6429dff99ef38818",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "136-91-6ae76988d2f0.pack",
+      "size": 1877492,
+      "sha256": "6ae76988d2f00b8be52de24aee6f85109a557f73e7c5148d66edb0bc89a07beb",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Padova, Vicenza",
       "de": "Padua, Vicenza"
@@ -637,12 +2507,12 @@
         "centro",
         "nord-ovest"
       ],
-      "release": "2026-10",
-      "file": "136-92-0e111d1c6586.pack",
-      "size": 316083,
-      "sha256": "0e111d1c6586fafdfc4a0e938bbce7ecc232c929802d9231154f588b4504c9c0",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "136-92-2e951f3bed56.pack",
+      "size": 316054,
+      "sha256": "2e951f3bed561072a7b6aac8774d505906cac96077ef8bcc574482aa3e62d99a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Bologna, Ravenna"
     },
@@ -653,12 +2523,12 @@
         "centro",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "136-93-caa6f1043e4a.pack",
-      "size": 1299193,
-      "sha256": "caa6f1043e4a63b4095bfe14290af9c012ad65d40eae0522382d04d7de9cbb01",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "136-93-b2620f3e8449.pack",
+      "size": 1299198,
+      "sha256": "b2620f3e8449be1023d3bda2f3087a523c659678e62c9daf021d7d707944c89d",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65527,
       "name": "Firenze, Rimini",
       "de": "Florenz, Rimini"
@@ -669,12 +2539,12 @@
       "regions": [
         "centro"
       ],
-      "release": "2026-10",
-      "file": "136-94-3daa587b0d38.pack",
-      "size": 384950,
-      "sha256": "3daa587b0d38f631763b05f9b725128794117537c6003415c79ce042cf870ad4",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "136-94-b1bfcc92106e.pack",
+      "size": 384248,
+      "sha256": "b1bfcc92106e8a620bfaacfe765a55f6c28f3c81ab891aff94422c3a8c9bb74b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Terni, Viterbo"
     },
@@ -688,7 +2558,7 @@
       "file": "136-95-f321e688dcd3.pack",
       "size": 30419,
       "sha256": "f321e688dcd3cfe442da8dbb9909a8244199f5a299b335bf50d4408ea1a21725",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 61439,
       "name": "Roma, Lido di Ostia",
@@ -705,7 +2575,7 @@
       "file": "136-96-70f97432f053.pack",
       "size": 174,
       "sha256": "70f97432f0532d123c14216870df1b0171dadf067f1b404139550d4ce2128f56",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 63260
     },
@@ -719,7 +2589,7 @@
       "file": "136-97-c140aa9168fc.pack",
       "size": 174,
       "sha256": "c140aa9168fc721f823cf184bb0ddedc7487441c05f22f04af5bfa28c6a1b6af",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65535
     },
@@ -733,7 +2603,7 @@
       "file": "136-98-86914627ba9f.pack",
       "size": 23374,
       "sha256": "86914627ba9fe4d4f7d74b5fe459450b7a2f07d3e9aa35190476a103891e27c6",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 61439,
       "name": "Marsala, Trapani"
@@ -748,7 +2618,7 @@
       "file": "136-99-4e2379c6fac9.pack",
       "size": 44996,
       "sha256": "4e2379c6fac9c59e5f4f65da4d1f2ff020847acbfbe5cc204cd0fbddd7a72140",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 61166,
       "name": "Mazara del Vallo"
@@ -763,9 +2633,107 @@
       "file": "136-100-0afab7eceafd.pack",
       "size": 2052,
       "sha256": "0afab7eceafd3aec43e47c1ed42d8ecf254191a2fbeda80e993de587875137c9",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 52428
+    },
+    {
+      "x": 137,
+      "y": 81,
+      "regions": [
+        "mecklenburg-vorpommern",
+        "zachodniopomorskie"
+      ],
+      "release": "2026-11",
+      "file": "137-81-060337e3039a.pack",
+      "size": 60628,
+      "sha256": "060337e3039ae990ec6a9e28f77b47a15508af4fa331e66c653f00a57867bd51",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65520,
+      "name": "Stralsund, Bergen auf R\u00FCgen"
+    },
+    {
+      "x": 137,
+      "y": 82,
+      "regions": [
+        "mecklenburg-vorpommern",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "137-82-c8c9c64d39fd.pack",
+      "size": 110585,
+      "sha256": "c8c9c64d39fd3a47d96c67f10572a5afb9754b17a29a20a95b91389b1a94521f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Neubrandenburg, Greifswald"
+    },
+    {
+      "x": 137,
+      "y": 83,
+      "regions": [
+        "brandenburg",
+        "mecklenburg-vorpommern",
+        "berlin"
+      ],
+      "release": "2026-11",
+      "file": "137-83-c464545310c7.pack",
+      "size": 219842,
+      "sha256": "c464545310c705fce4c1d2b38dcdb32ae3ac71d87641b35b2db6411354190574",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Berlin, Oranienburg"
+    },
+    {
+      "x": 137,
+      "y": 84,
+      "regions": [
+        "brandenburg",
+        "sachsen-anhalt",
+        "berlin",
+        "sachsen"
+      ],
+      "release": "2026-11",
+      "file": "137-84-1f40a232047a.pack",
+      "size": 284866,
+      "sha256": "1f40a232047a4d1a1f13950a0e7fc9df1ea4a1b33e962e36f941f804898d282f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Potsdam, K\u00F6nigs Wusterhausen"
+    },
+    {
+      "x": 137,
+      "y": 85,
+      "regions": [
+        "sachsen",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "137-85-23d3f8f633f9.pack",
+      "size": 762688,
+      "sha256": "23d3f8f633f930682f5727cad995b848d0fc2e19b9f82d66abde6a295a7a720f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 32767,
+      "name": "Dresden, Chemnitz"
+    },
+    {
+      "x": 137,
+      "y": 86,
+      "regions": [
+        "sachsen"
+      ],
+      "release": "2026-11",
+      "file": "137-86-c481b47df0f2.pack",
+      "size": 88796,
+      "sha256": "c481b47df0f2be775d69ca0687e67841183b17af1a1d3bb88a7b2990a19978c5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 1,
+      "name": "Annaberg-Buchholz, Schwarzenberg/Erzgebirge"
     },
     {
       "x": 137,
@@ -778,7 +2746,7 @@
       "file": "137-87-05b6aeaea8c1.pack",
       "size": 58597,
       "sha256": "05b6aeaea8c160cab77a4179dc24ecd79dbe4870fd325f19cda98ce9f32e825b",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T14:15:11.7904911Z",
       "pieces": 4096,
       "name": "Cham, Regen"
@@ -791,12 +2759,12 @@
         "niederbayern",
         "oberbayern"
       ],
-      "release": "2026-10",
-      "file": "137-88-b0ff5321dcc1.pack",
-      "size": 569818,
-      "sha256": "b0ff5321dcc167ab5acdb6092ce2e02c3fdefc1a49e2336f9b5639dde34d0352",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "137-88-79941254c373.pack",
+      "size": 570085,
+      "sha256": "79941254c3737b702df65a3bac0e7a17432fc0981d142860033388e73a184de8",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65523,
       "name": "Wels, Passau"
     },
@@ -807,12 +2775,12 @@
         "austria",
         "oberbayern"
       ],
-      "release": "2026-10",
-      "file": "137-89-d82be27aede8.pack",
-      "size": 4066218,
-      "sha256": "d82be27aede82c96761696c6fb9ce14528edbeb866741fee58727b19ae1bb670",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "137-89-ea26951618d0.pack",
+      "size": 4068369,
+      "sha256": "ea26951618d0af1786023c966b93ae2889decaa4949dc8b411b72caf81011fb5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Salzburg, Hallein"
     },
@@ -823,12 +2791,12 @@
         "austria",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "137-90-bd45f4908b45.pack",
-      "size": 3028921,
-      "sha256": "bd45f4908b45b31d1fc5280dad940a018278dc3b92665af8a4c1ab4c53a63da2",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
+      "release": "2026-11",
+      "file": "137-90-a0ae7d2f4ac1.pack",
+      "size": 3031713,
+      "sha256": "a0ae7d2f4ac1f315b0671b3045b0ad4b791715e05533fb6e27c19a0cb0ed18a9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 13311,
       "name": "Villach, Spittal an der Drau"
     },
@@ -836,17 +2804,35 @@
       "x": 137,
       "y": 91,
       "regions": [
-        "nord-est"
+        "nord-est",
+        "croatia"
       ],
-      "release": "2026-10",
-      "file": "137-91-b73c0dd0e8cd.pack",
-      "size": 56343,
-      "sha256": "b73c0dd0e8cdcd7e4636acba060419843a8c345df8c25fc73a54ad2ab656a3c7",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T14:15:11.7904911Z",
-      "pieces": 4915,
+      "release": "2026-11",
+      "file": "137-91-b5eee3559799.pack",
+      "size": 87036,
+      "sha256": "b5eee3559799b4505d2cce1d2b303572c0d20be785a0f786b3ae4f6b142caddb",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 62259,
       "name": "Trieste, Udine",
       "de": "Triest, Udine"
+    },
+    {
+      "x": 137,
+      "y": 92,
+      "regions": [
+        "croatia",
+        "nord-est",
+        "centro"
+      ],
+      "release": "2026-11",
+      "file": "137-92-2aec26158d9f.pack",
+      "size": 30046,
+      "sha256": "2aec26158d9f1742db52ef728f1a7560a6faebe86229db1a03cf2a8b94579400",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 6557,
+      "name": "Pula, Rovinj"
     },
     {
       "x": 137,
@@ -855,12 +2841,12 @@
         "centro",
         "nord-est"
       ],
-      "release": "2026-10",
-      "file": "137-93-7a90677f6727.pack",
-      "size": 390605,
-      "sha256": "7a90677f6727804e287cc86e863e1dd2bd27c39aed7e3b19bdecfbe9fa573ada",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "137-93-fd3a7ebe03df.pack",
+      "size": 390630,
+      "sha256": "fd3a7ebe03df1b48693d1851f0d994932154b42adc9888fd643e79f6d4870ff2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65523,
       "name": "Ancona, Pesaro"
     },
@@ -871,12 +2857,12 @@
         "centro",
         "sud"
       ],
-      "release": "2026-10",
-      "file": "137-94-c0cc1fa4faa1.pack",
-      "size": 973366,
-      "sha256": "c0cc1fa4faa100b60108dfc76b255de764702404adc359965f2577a156b3addd",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "137-94-14c4affba4bf.pack",
+      "size": 975278,
+      "sha256": "14c4affba4bf38815da6411e12f556d67ff18a2ba1d18755e79caec70c01d7c4",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65527,
       "name": "L\u0027Aquila, Teramo"
     },
@@ -887,12 +2873,12 @@
         "centro",
         "sud"
       ],
-      "release": "2026-10",
-      "file": "137-95-93ddb11cafd7.pack",
-      "size": 920194,
-      "sha256": "93ddb11cafd7a2c21f43d58efd6e79712b02a62dfa59a58c615989c576b7612b",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "137-95-b5f7957d0ec4.pack",
+      "size": 929975,
+      "sha256": "b5f7957d0ec49c3e5073bfee74ce1384ee4f55259a7445920bb573be144d9b86",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Latina, Tivoli"
     },
@@ -907,7 +2893,7 @@
       "file": "137-96-0287ec33c8a3.pack",
       "size": 1970,
       "sha256": "0287ec33c8a340922d0c81d1387556ec4e9711c6a5bf5d8f287419b8520783a5",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 27,
       "name": "Ischia, Forio"
@@ -922,7 +2908,7 @@
       "file": "137-97-477e50279840.pack",
       "size": 173,
       "sha256": "477e50279840329cfcc9e55c0fcd124da91aa0c01b584fee5fc096dc6389e9e8",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65523
     },
@@ -932,12 +2918,12 @@
       "regions": [
         "isole"
       ],
-      "release": "2026-10",
-      "file": "137-98-25eb0caf08cc.pack",
-      "size": 283246,
-      "sha256": "25eb0caf08cc725070e29c8a4fbfeeca4e0020e2c490cb6bd24432c492855982",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "137-98-008aab249bb8.pack",
+      "size": 283495,
+      "sha256": "008aab249bb8721cf4b9fd55f7d4ab4d475d42bf825c6c12713ba5b658a2d443",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Palermo, Bagheria"
     },
@@ -947,12 +2933,12 @@
       "regions": [
         "isole"
       ],
-      "release": "2026-10",
-      "file": "137-99-4738435960a4.pack",
-      "size": 233944,
-      "sha256": "4738435960a4876954575cfefd0f43751023c83b989abc5fa767a1427b699bd8",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "137-99-08307863e009.pack",
+      "size": 233949,
+      "sha256": "08307863e0096a0f7e3a2660e16cdd5baae5d910bcf38e61af3e2b56801db332",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Agrigento, Sciacca",
       "de": "Agrigent, Sciacca"
@@ -967,9 +2953,82 @@
       "file": "137-100-5243dfdd97d4.pack",
       "size": 484,
       "sha256": "5243dfdd97d4df5ded8ab1794160416071a9fc1c354895290ded9f97accf4707",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 13175
+    },
+    {
+      "x": 138,
+      "y": 82,
+      "regions": [
+        "zachodniopomorskie",
+        "mecklenburg-vorpommern",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "138-82-81d37d1e39c4.pack",
+      "size": 109926,
+      "sha256": "81d37d1e39c454f8cb5d93b2adea9daf36606044326d5eb4063ededb94ae85af",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Szczecin, Stargard",
+      "de": "Stettin, Stargard in Pommern"
+    },
+    {
+      "x": 138,
+      "y": 83,
+      "regions": [
+        "zachodniopomorskie",
+        "lubuskie",
+        "brandenburg",
+        "mecklenburg-vorpommern"
+      ],
+      "release": "2026-11",
+      "file": "138-83-849f582836c5.pack",
+      "size": 206128,
+      "sha256": "849f582836c5be80f88373f2b2a077cd229d277adf390e69e5fd1ee17dcf74dc",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Gorz\u00F3w Wielkopolski, Gryfino",
+      "de": "Landsberg an der Warthe, Greifenhagen"
+    },
+    {
+      "x": 138,
+      "y": 84,
+      "regions": [
+        "lubuskie",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "138-84-8c49401f4c5f.pack",
+      "size": 176139,
+      "sha256": "8c49401f4c5fdccae4649ad05f9cfa050f6662b3c0711f70fad9798cc31ba8d5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Cottbus - Ch\u00F3\u015Bebuz, Frankfurt (Oder)",
+      "de": "Cottbus, Frankfurt (Oder)"
+    },
+    {
+      "x": 138,
+      "y": 85,
+      "regions": [
+        "sachsen",
+        "dolnoslaskie",
+        "lubuskie",
+        "brandenburg"
+      ],
+      "release": "2026-11",
+      "file": "138-85-024f94c41603.pack",
+      "size": 147004,
+      "sha256": "024f94c416039cd64dcbef1968c461c68a8a1655ba4891854d57f7499ab0404e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 255,
+      "name": "G\u00F6rlitz, Bautzen - Budy\u0161in",
+      "de": "G\u00F6rlitz, Bautzen"
     },
     {
       "x": 138,
@@ -977,12 +3036,12 @@
       "regions": [
         "austria"
       ],
-      "release": "2026-10",
-      "file": "138-88-3c509e6c6e05.pack",
-      "size": 795881,
-      "sha256": "3c509e6c6e05e759d0b6002150dab74b20f73ac0e59c38fab5b30b86fe02f5fd",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
+      "release": "2026-11",
+      "file": "138-88-ceadd0b66e61.pack",
+      "size": 795892,
+      "sha256": "ceadd0b66e61b8cf647cbc21221d62c2f23af9b2fba3478bbee007db636333e0",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65480,
       "name": "Linz, Steyr"
     },
@@ -992,12 +3051,12 @@
       "regions": [
         "austria"
       ],
-      "release": "2026-10",
-      "file": "138-89-acecdb49456c.pack",
-      "size": 2924700,
-      "sha256": "acecdb49456c9017967245619e9ca250556f657621ba4ee9713c0601767e694d",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
+      "release": "2026-11",
+      "file": "138-89-d5dbbc20c8a1.pack",
+      "size": 2925185,
+      "sha256": "d5dbbc20c8a19baffec012f030c16987b33658637364ecdcec8d2aac53acfcde",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Graz, Leoben"
     },
@@ -1011,10 +3070,56 @@
       "file": "138-90-63cbe390a121.pack",
       "size": 407599,
       "sha256": "63cbe390a12188b7902958304b833b206e61e285be54f29cb8a116692c0b93cf",
-      "data": "2026-10-29T21:21:26Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T13:52:42.1639376Z",
       "pieces": 63,
       "name": "Klagenfurt, Wolfsberg"
+    },
+    {
+      "x": 138,
+      "y": 91,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "138-91-3ab000fc2bbb.pack",
+      "size": 167308,
+      "sha256": "3ab000fc2bbbf9536ebca9602aba46e1636276ec9f208cf6a6e1197a6b6142d7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61440,
+      "name": "Rijeka, Kastav"
+    },
+    {
+      "x": 138,
+      "y": 92,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "138-92-e9de434aede1.pack",
+      "size": 382281,
+      "sha256": "e9de434aede15217ed44645f0337c15246a987637fb3a95f521c9621f7f6af94",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Zadar, Gospi\u0107"
+    },
+    {
+      "x": 138,
+      "y": 93,
+      "regions": [
+        "croatia",
+        "centro"
+      ],
+      "release": "2026-11",
+      "file": "138-93-953cd4e71cb6.pack",
+      "size": 26062,
+      "sha256": "953cd4e71cb69682f1c45460aaa55b8e09e0c7d3b3ccc6c93a6ab29e14d58b28",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 36846,
+      "name": "Biograd na Moru"
     },
     {
       "x": 138,
@@ -1026,7 +3131,7 @@
       "file": "138-94-b7f21e66f6fe.pack",
       "size": 94443,
       "sha256": "b7f21e66f6fe0f4f30dc303d905efc3b33f44bd19e4540954930c119c9d71b24",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 62208,
       "name": "Pescara, Montesilvano"
@@ -1037,12 +3142,12 @@
       "regions": [
         "sud"
       ],
-      "release": "2026-10",
-      "file": "138-95-0466cca6b900.pack",
-      "size": 462421,
-      "sha256": "0466cca6b90004f2a75d415cfcbc706396687bb0d28ee9369b46586434413454",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "138-95-d34ebff30cc9.pack",
+      "size": 462378,
+      "sha256": "d34ebff30cc9418d8103a9a25b9b5c9137a3372bb8f7725d0db08f55d6be4869",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Caserta, Benevento",
       "de": "Caserta, Benevent"
@@ -1053,12 +3158,12 @@
       "regions": [
         "sud"
       ],
-      "release": "2026-10",
-      "file": "138-96-10e83b48771a.pack",
-      "size": 758829,
-      "sha256": "10e83b48771ac73fd44b54297f537a0d8ab0a5479e9b687fbf8ec7dfdc23bd00",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "138-96-e6c334f3a765.pack",
+      "size": 758831,
+      "sha256": "e6c334f3a765fdccda5251a120ed506028b16deeb90c0e7608b8c6e4225e2bf8",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 52991,
       "name": "Napoli, Salerno",
       "de": "Neapel, Salerno"
@@ -1074,7 +3179,7 @@
       "file": "138-97-34b94fcec3f4.pack",
       "size": 175,
       "sha256": "34b94fcec3f471c4754af9861d8319c4418b148af50c03ea042789c34a11b3dc",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 29448
     },
@@ -1084,12 +3189,12 @@
       "regions": [
         "isole"
       ],
-      "release": "2026-10",
-      "file": "138-98-a2237a60de16.pack",
-      "size": 660499,
-      "sha256": "a2237a60de16fdc5319f6ffe0900014efaea96cea455f4410f9d1bc06a99e3d0",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "138-98-9e1b0a5447dc.pack",
+      "size": 660497,
+      "sha256": "9e1b0a5447dccebb5b95436a26a05dc92f4498c7df47864ad91f6aebdf4af3e9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65535,
       "name": "Barcellona Pozzo di Gotto, Milazzo"
     },
@@ -1103,7 +3208,7 @@
       "file": "138-99-de0b5aeb1bb1.pack",
       "size": 854984,
       "sha256": "de0b5aeb1bb18383e3c44b19bf33cf73fe1f7d05ba951be75f9ec3105619e59a",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65535,
       "name": "Catania, Siracusa",
@@ -1111,16 +3216,121 @@
     },
     {
       "x": 139,
+      "y": 81,
+      "regions": [
+        "zachodniopomorskie",
+        "pomorskie"
+      ],
+      "release": "2026-11",
+      "file": "139-81-9edde30902fc.pack",
+      "size": 49695,
+      "sha256": "9edde30902fc777a6fbc7dc44841214c2315bd583cc90b325c0ba13218ea9542",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65532,
+      "name": "Koszalin, Ko\u0142obrzeg",
+      "de": "K\u00F6slin, Kolberg"
+    },
+    {
+      "x": 139,
+      "y": 82,
+      "regions": [
+        "zachodniopomorskie",
+        "wielkopolskie",
+        "pomorskie"
+      ],
+      "release": "2026-11",
+      "file": "139-82-7fbd24e3e4cf.pack",
+      "size": 209632,
+      "sha256": "7fbd24e3e4cf90d03fcf8989228ea4f62f320ed283768250101bd956ec2c8dd1",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Szczecinek, Bia\u0142ogard",
+      "de": "Neustettin, Belgard an der Persante"
+    },
+    {
+      "x": 139,
+      "y": 83,
+      "regions": [
+        "wielkopolskie",
+        "zachodniopomorskie",
+        "lubuskie"
+      ],
+      "release": "2026-11",
+      "file": "139-83-46316458dc7a.pack",
+      "size": 119124,
+      "sha256": "46316458dc7a20811e2ceb15fc5b95a9d1945dc618b65d18b9ab768dd90b4781",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Pi\u0142a, Wa\u0142cz",
+      "de": "Schneidem\u00FChl, Deutsch Krone"
+    },
+    {
+      "x": 139,
+      "y": 84,
+      "regions": [
+        "wielkopolskie",
+        "lubuskie",
+        "dolnoslaskie"
+      ],
+      "release": "2026-11",
+      "file": "139-84-3c967df85d96.pack",
+      "size": 185309,
+      "sha256": "3c967df85d967fb20451fb5f377ac6a2f94709b98474559e8f73b3abc66fc120",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Zielona G\u00F3ra, G\u0142og\u00F3w",
+      "de": "Gr\u00FCnberg in Schlesien, Glogau"
+    },
+    {
+      "x": 139,
+      "y": 85,
+      "regions": [
+        "dolnoslaskie",
+        "lubuskie",
+        "wielkopolskie"
+      ],
+      "release": "2026-11",
+      "file": "139-85-77f95540b84d.pack",
+      "size": 459341,
+      "sha256": "77f95540b84da1307c5b241846894b46dc8a22a88a42e74638225a23277b199d",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61439,
+      "name": "Wa\u0142brzych, Legnica",
+      "de": "Waldenburg, Liegnitz"
+    },
+    {
+      "x": 139,
+      "y": 86,
+      "regions": [
+        "dolnoslaskie"
+      ],
+      "release": "2026-11",
+      "file": "139-86-1aef8db31766.pack",
+      "size": 91772,
+      "sha256": "1aef8db31766b26071ae77d6daa372a2053006362bf1310eddedee04e1d1bb19",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 136,
+      "name": "Dzier\u017Coni\u00F3w, Bielawa",
+      "de": "Reichenbach im Eulengebirge, Langenbielau"
+    },
+    {
+      "x": 139,
       "y": 88,
       "regions": [
         "austria"
       ],
-      "release": "2026-10",
-      "file": "139-88-5d7dea3aed04.pack",
-      "size": 1310814,
-      "sha256": "5d7dea3aed040c4d795117baeb32a82bccf0050dc39b142bfba623f7e20c8be0",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
+      "release": "2026-11",
+      "file": "139-88-65575c105478.pack",
+      "size": 1310234,
+      "sha256": "65575c105478311358467e1c7a2b1c947f30455c07440e23c42d7dcf2ecaf492",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 65520,
       "name": "Wien, St. P\u00F6lten"
     },
@@ -1130,12 +3340,12 @@
       "regions": [
         "austria"
       ],
-      "release": "2026-10",
-      "file": "139-89-d3f80033217a.pack",
-      "size": 1375079,
-      "sha256": "d3f80033217a9d99ba6d3c377ed4a22dae64e9ebe1ece3e2cb9e880cd3b886aa",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
+      "release": "2026-11",
+      "file": "139-89-7e6ca8053196.pack",
+      "size": 1376583,
+      "sha256": "7e6ca8053196dbd78de4c18c498c94df8edfdbd9bec193b8fcdbf8ce5aebaf21",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 13119,
       "name": "Wiener Neustadt, Ternitz"
     },
@@ -1143,16 +3353,78 @@
       "x": 139,
       "y": 90,
       "regions": [
+        "croatia",
         "austria"
       ],
-      "release": "2026-10",
-      "file": "139-90-321a78258f13.pack",
-      "size": 37446,
-      "sha256": "321a78258f1344745ccee25aceec09fabaf27b7df067ccb582683df44617e758",
-      "data": "2026-10-29T21:21:26Z",
-      "built": "2026-10-30T13:52:42.1639376Z",
-      "pieces": 1,
-      "name": "Feldbach, Fehring"
+      "release": "2026-11",
+      "file": "139-90-be6f0501511f.pack",
+      "size": 64081,
+      "sha256": "be6f0501511fd13ecb20347ce4034439dab55ec6076a464c5ed895bfd04c3df0",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 49153,
+      "name": "Vara\u017Edin, Koprivnica"
+    },
+    {
+      "x": 139,
+      "y": 91,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "139-91-5b58e9e8921f.pack",
+      "size": 146287,
+      "sha256": "5b58e9e8921fcd19c358774f0234f763c65a609f021bb567aadab0f7bcc359eb",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4094,
+      "name": "Zagreb, Karlovac"
+    },
+    {
+      "x": 139,
+      "y": 92,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "139-92-77a73eb8ac79.pack",
+      "size": 102898,
+      "sha256": "77a73eb8ac79d2ad7b29e560cbfb99d0b6b08bb9839ecd545a2c652006531dc2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12544,
+      "name": "Obrovac",
+      "de": "Obrovazzo"
+    },
+    {
+      "x": 139,
+      "y": 93,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "139-93-f7431451209d.pack",
+      "size": 218331,
+      "sha256": "f7431451209d476f953acb105f32820ea3f2bfe7b8c0112abd5165d133fbd6e2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65395,
+      "name": "Split, Ka\u0161tela"
+    },
+    {
+      "x": 139,
+      "y": 94,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "139-94-aac5da359622.pack",
+      "size": 18471,
+      "sha256": "aac5da35962224760f03941d1ba3071bc4136a8a0ac3a28d9f7833b89a67c33e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3279,
+      "name": "Vis, Komi\u017Ea"
     },
     {
       "x": 139,
@@ -1164,7 +3436,7 @@
       "file": "139-95-248e95fa42af.pack",
       "size": 133108,
       "sha256": "248e95fa42af561de3770179c3bb0d4ae6eb6a96ccf08b7dbf7c6c20b6bb7d38",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65523,
       "name": "Bari, Foggia"
@@ -1179,7 +3451,7 @@
       "file": "139-96-8288abcf154d.pack",
       "size": 361226,
       "sha256": "8288abcf154df51b3b2c3cd26352321eb6e2eede255cfa8ef6894eb32d631352",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65535,
       "name": "Altamura, Potenza"
@@ -1190,12 +3462,12 @@
       "regions": [
         "sud"
       ],
-      "release": "2026-10",
-      "file": "139-97-d8c0cbfb7445.pack",
-      "size": 158341,
-      "sha256": "d8c0cbfb74456319f63820d618924a61da3a366e27d66c9bbafef2219eb20d5c",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
+      "release": "2026-11",
+      "file": "139-97-63628f54b08c.pack",
+      "size": 158352,
+      "sha256": "63628f54b08c02740aacee397a5919c52ff6ce5555acb4e9d44cb36a11b236f9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
       "pieces": 61439,
       "name": "Catanzaro, Lamezia Terme"
     },
@@ -1210,10 +3482,162 @@
       "file": "139-98-15a8514e8608.pack",
       "size": 71622,
       "sha256": "15a8514e8608dffe05ba7cef52a0a9d5a461532771a16beafa1345f4745c43fc",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 4095,
       "name": "Messina, Reggio di Calabria"
+    },
+    {
+      "x": 140,
+      "y": 81,
+      "regions": [
+        "pomorskie"
+      ],
+      "release": "2026-11",
+      "file": "140-81-a3195120bec6.pack",
+      "size": 123054,
+      "sha256": "a3195120bec682d7a540f0353641e514439a8ce0948a95492eebca990e905e35",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "S\u0142upsk, Wejherowo",
+      "de": "Stolp, Neustadt in Westpreu\u00DFen"
+    },
+    {
+      "x": 140,
+      "y": 82,
+      "regions": [
+        "pomorskie",
+        "kujawsko-pomorskie",
+        "wielkopolskie",
+        "zachodniopomorskie"
+      ],
+      "release": "2026-11",
+      "file": "140-82-330c7c208024.pack",
+      "size": 171169,
+      "sha256": "330c7c208024cca1e09167bf582e44089faeb1675cd9e68b7b297aa5d5bb0231",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Chojnice, Ko\u015Bcierzyna",
+      "de": "Konitz, Berent"
+    },
+    {
+      "x": 140,
+      "y": 83,
+      "regions": [
+        "kujawsko-pomorskie",
+        "wielkopolskie"
+      ],
+      "release": "2026-11",
+      "file": "140-83-3c4f15100028.pack",
+      "size": 69372,
+      "sha256": "3c4f151000280cb57dd340a724a667c2f3ccf6b5f0693148bf64e48acff03c31",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Bydgoszcz, Inowroc\u0142aw",
+      "de": "Bromberg, Hohensalza"
+    },
+    {
+      "x": 140,
+      "y": 84,
+      "regions": [
+        "wielkopolskie",
+        "dolnoslaskie"
+      ],
+      "release": "2026-11",
+      "file": "140-84-d33b1da0895e.pack",
+      "size": 61270,
+      "sha256": "d33b1da0895e155665fa4b1124075032d0d49ad7479aac9c0dda1e705c968021",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Pozna\u0144, Kalisz",
+      "de": "Posen, Kalisch"
+    },
+    {
+      "x": 140,
+      "y": 85,
+      "regions": [
+        "dolnoslaskie",
+        "opolskie",
+        "wielkopolskie",
+        "lodzkie"
+      ],
+      "release": "2026-11",
+      "file": "140-85-58c42e385da1.pack",
+      "size": 165678,
+      "sha256": "58c42e385da17a8011b10bcb794eb9fa73ec5673674bc83648de23c9a0022e49",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Wroc\u0142aw, Ole\u015Bnica",
+      "de": "Breslau, Oels"
+    },
+    {
+      "x": 140,
+      "y": 86,
+      "regions": [
+        "opolskie",
+        "dolnoslaskie",
+        "slaskie"
+      ],
+      "release": "2026-11",
+      "file": "140-86-c3ff1884853b.pack",
+      "size": 84797,
+      "sha256": "c3ff1884853b84ff1edc1c6ca23566fec4af5b1c174cf033e23653c2e2a61a43",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 2255,
+      "name": "Opole, K\u0119dzierzyn-Ko\u017Ale",
+      "de": "Oppeln, Kandrzin-Cosel"
+    },
+    {
+      "x": 140,
+      "y": 91,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "140-91-2ece00be8bc5.pack",
+      "size": 102911,
+      "sha256": "2ece00be8bc5dac80de6640161d162f6394b69bf9bd4db58c465e28985c0d7ef",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3889,
+      "name": "Slavonski Brod, Po\u017Eega"
+    },
+    {
+      "x": 140,
+      "y": 93,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "140-93-1884675f25ff.pack",
+      "size": 69423,
+      "sha256": "1884675f25ffba4234e23767ce1584081f070dfd0360e15a50cdfe46c4429ea7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4096,
+      "name": "Makarska, Imotski"
+    },
+    {
+      "x": 140,
+      "y": 94,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "140-94-c16baaf65b35.pack",
+      "size": 44470,
+      "sha256": "c16baaf65b355a208be8f9b279ec22433b7dea7a6432b9e084167a3422c98f19",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3955,
+      "name": "Dubrovnik, Metkovi\u0107",
+      "de": "Dubrovnik, Metcovich"
     },
     {
       "x": 140,
@@ -1225,7 +3649,7 @@
       "file": "140-95-60c4bad65537.pack",
       "size": 9697,
       "sha256": "60c4bad6553786b7d8afb68504a53bab822c61f93e7822273b02f1be53c8ce93",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 29440,
       "name": "Triggiano, Noicattaro"
@@ -1240,7 +3664,7 @@
       "file": "140-96-ae3eda0f69a5.pack",
       "size": 177131,
       "sha256": "ae3eda0f69a5e8eb10ecf4aea8e7ad376425f0eaf09925c89924eb534558660a",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 65535,
       "name": "Taranto, Lecce",
@@ -1256,10 +3680,151 @@
       "file": "140-97-765c2df753ef.pack",
       "size": 8411,
       "sha256": "765c2df753ef8f38c3ed9ca7e33c4f9510a0093ecb1b5fc1f827d1f268ba5b19",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 14335,
       "name": "Crotone, Isola di Capo Rizzuto"
+    },
+    {
+      "x": 141,
+      "y": 81,
+      "regions": [
+        "pomorskie",
+        "warminsko-mazurskie"
+      ],
+      "release": "2026-11",
+      "file": "141-81-57a709025a4c.pack",
+      "size": 109246,
+      "sha256": "57a709025a4cdc03aac134b1ccd415500d6fbaab85f7fd45f8b6415c405c4b1a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 63351,
+      "name": "Gda\u0144sk, Gdynia",
+      "de": "Danzig, Gdingen"
+    },
+    {
+      "x": 141,
+      "y": 82,
+      "regions": [
+        "pomorskie",
+        "warminsko-mazurskie",
+        "kujawsko-pomorskie"
+      ],
+      "release": "2026-11",
+      "file": "141-82-02bfc05460c6.pack",
+      "size": 76904,
+      "sha256": "02bfc05460c62fe5b310a45982b8ea2de72170ff044c503199c1570c574fd017",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Elbl\u0105g, Grudzi\u0105dz",
+      "de": "Elbing, Graudenz"
+    },
+    {
+      "x": 141,
+      "y": 83,
+      "regions": [
+        "kujawsko-pomorskie",
+        "mazowieckie",
+        "wielkopolskie"
+      ],
+      "release": "2026-11",
+      "file": "141-83-7be44cc934c3.pack",
+      "size": 53584,
+      "sha256": "7be44cc934c375e94ebb983f0932406011082d9e07cbbdd6a8b6f6b7210b25bd",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Toru\u0144, W\u0142oc\u0142awek",
+      "de": "Thorn, Leslau"
+    },
+    {
+      "x": 141,
+      "y": 84,
+      "regions": [
+        "lodzkie",
+        "wielkopolskie",
+        "kujawsko-pomorskie",
+        "mazowieckie"
+      ],
+      "release": "2026-11",
+      "file": "141-84-d0d32c2e96ac.pack",
+      "size": 49743,
+      "sha256": "d0d32c2e96ac455c0f5f87a5ed3669b52fb858b910bbaa015a9f132b6436c38a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0141\u00F3d\u017A, Pabianice",
+      "de": "Lodz, Pabianitz"
+    },
+    {
+      "x": 141,
+      "y": 85,
+      "regions": [
+        "lodzkie",
+        "slaskie",
+        "opolskie",
+        "wielkopolskie"
+      ],
+      "release": "2026-11",
+      "file": "141-85-0d442fad4399.pack",
+      "size": 73081,
+      "sha256": "0d442fad43998f8d6e9a5951b65a79fc12460df02c246472c3af5e72b671b500",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Cz\u0119stochowa, Be\u0142chat\u00F3w",
+      "de": "Tschenstochau, Belchatow"
+    },
+    {
+      "x": 141,
+      "y": 86,
+      "regions": [
+        "slaskie",
+        "malopolskie",
+        "opolskie"
+      ],
+      "release": "2026-11",
+      "file": "141-86-a58ad17537e2.pack",
+      "size": 344623,
+      "sha256": "a58ad17537e2592096b09335a2829943ec96e65a0f349aede1fb333f36f62c87",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61439,
+      "name": "Katowice, Sosnowiec",
+      "de": "Kattowitz, Sosnowitz"
+    },
+    {
+      "x": 141,
+      "y": 87,
+      "regions": [
+        "slaskie",
+        "malopolskie"
+      ],
+      "release": "2026-11",
+      "file": "141-87-89960c988e8d.pack",
+      "size": 71769,
+      "sha256": "89960c988e8d8691be16d824dcf65557ebdde122f7ceece02a4028dfe66621e5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12,
+      "name": "Bielsko-Bia\u0142a, Cieszyn",
+      "de": "Bielitz-Biala, Teschen"
+    },
+    {
+      "x": 141,
+      "y": 91,
+      "regions": [
+        "croatia"
+      ],
+      "release": "2026-11",
+      "file": "141-91-62184a583c14.pack",
+      "size": 3715,
+      "sha256": "62184a583c144b82d6bdd6e25a1830e05e46b1c7ddd9dba23786660b8594f901",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12544,
+      "name": "Osijek, Vinkovci"
     },
     {
       "x": 141,
@@ -1271,7 +3836,7 @@
       "file": "141-96-0cb3273d0a7a.pack",
       "size": 33095,
       "sha256": "0cb3273d0a7a187a7e9ef8524a8297d42b33347fc90cce441ca26c6b229ee17d",
-      "data": "2026-10-28T21:21:02Z",
+      "data": "2026-11-01T21:21:36Z",
       "built": "2026-10-30T15:55:20.5939017Z",
       "pieces": 4368,
       "name": "Tricase, Maglie"
@@ -1280,15 +3845,894 @@
       "x": 141,
       "y": 97,
       "regions": [
+        "greece",
         "sud"
       ],
-      "release": "2026-10",
-      "file": "141-97-989a4f4d1514.pack",
-      "size": 5807,
-      "sha256": "989a4f4d1514309e6e21974bb2de979a8905a1b84a3397837da0109c9fab50a6",
-      "data": "2026-10-28T21:21:02Z",
-      "built": "2026-10-30T15:55:20.5939017Z",
-      "pieces": 1
+      "release": "2026-11",
+      "file": "141-97-4a9d2ea28448.pack",
+      "size": 9400,
+      "sha256": "4a9d2ea28448be2372ff02b1b8cb4ff0d6768ec77b53d9410445b960005e0dfb",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 137
+    },
+    {
+      "x": 142,
+      "y": 81,
+      "regions": [
+        "warminsko-mazurskie"
+      ],
+      "release": "2026-11",
+      "file": "142-81-843d3c3b39ac.pack",
+      "size": 6617,
+      "sha256": "843d3c3b39acd4e75d35559c738123a912d664529463ac2fe347e8621b0441b1",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61440,
+      "name": "Bartoszyce, Braniewo",
+      "de": "Bartenstein, Braunsberg"
+    },
+    {
+      "x": 142,
+      "y": 82,
+      "regions": [
+        "warminsko-mazurskie",
+        "mazowieckie"
+      ],
+      "release": "2026-11",
+      "file": "142-82-98d33e684835.pack",
+      "size": 54164,
+      "sha256": "98d33e6848351f9cd5ffb71e3f5ea6b9b1efb44529dd77dcf0b194c2d4f049b4",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Olsztyn, Ostr\u00F3da",
+      "de": "Allenstein, Osterode"
+    },
+    {
+      "x": 142,
+      "y": 83,
+      "regions": [
+        "mazowieckie",
+        "warminsko-mazurskie",
+        "kujawsko-pomorskie"
+      ],
+      "release": "2026-11",
+      "file": "142-83-9ff8488553ff.pack",
+      "size": 20867,
+      "sha256": "9ff8488553ffb4426dadb9500d0486007059985bb4b498a2aedb7abfefad18f0",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "P\u0142ock, Ciechan\u00F3w",
+      "de": "Plotzk, Zichenau"
+    },
+    {
+      "x": 142,
+      "y": 84,
+      "regions": [
+        "mazowieckie",
+        "lodzkie"
+      ],
+      "release": "2026-11",
+      "file": "142-84-f58c84cc8524.pack",
+      "size": 70581,
+      "sha256": "f58c84cc8524c2a521faa8272badaad88d0abb0a03f772adbedb195193dc0d47",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Warszawa, Pruszk\u00F3w",
+      "de": "Warschau, Pruszk\u00F3w"
+    },
+    {
+      "x": 142,
+      "y": 85,
+      "regions": [
+        "swietokrzyskie",
+        "lodzkie",
+        "mazowieckie",
+        "slaskie"
+      ],
+      "release": "2026-11",
+      "file": "142-85-106f39956c69.pack",
+      "size": 99933,
+      "sha256": "106f39956c6906dea25906ec5314b0dc34c9b70b245fadc01036bdcfd0fe9e4c",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Kielce, Piotrk\u00F3w Trybunalski",
+      "de": "Kielce, Petrikau"
+    },
+    {
+      "x": 142,
+      "y": 86,
+      "regions": [
+        "malopolskie",
+        "swietokrzyskie",
+        "slaskie"
+      ],
+      "release": "2026-11",
+      "file": "142-86-f238cf73d759.pack",
+      "size": 140518,
+      "sha256": "f238cf73d759b10febfc6887b8c21e72d465bc75f7dd43715803e7f33349b8ed",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Krak\u00F3w, Tarn\u00F3w",
+      "de": "Krakau, Tarnau"
+    },
+    {
+      "x": 142,
+      "y": 87,
+      "regions": [
+        "malopolskie"
+      ],
+      "release": "2026-11",
+      "file": "142-87-169b9b16ffcf.pack",
+      "size": 128487,
+      "sha256": "169b9b16ffcf9f48ce22214d60c02bc5d22dfbb9b7ac71f79549eaab7cfae955",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 191,
+      "name": "Nowy S\u0105cz, Nowy Targ",
+      "de": "Neu Sandez, Neumarkt"
+    },
+    {
+      "x": 142,
+      "y": 96,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "142-96-05a2477a55a3.pack",
+      "size": 31882,
+      "sha256": "05a2477a55a33e32650e90667cb29e40e0e1c86cc675e7cb76a6731a888934a7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 32768,
+      "name": "\u039A\u03CC\u03BD\u03B9\u03C4\u03C3\u03B1"
+    },
+    {
+      "x": 142,
+      "y": 97,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "142-97-899318721090.pack",
+      "size": 143697,
+      "sha256": "8993187210901893334658ceac0f66290420ff196ea3c44c5ccadc881c42718a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65532,
+      "name": "\u0399\u03C9\u03AC\u03BD\u03BD\u03B9\u03BD\u03B1, \u039A\u03AD\u03C1\u03BA\u03C5\u03C1\u03B1",
+      "de": "Ioannina, Korfu"
+    },
+    {
+      "x": 142,
+      "y": 98,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "142-98-11ae4d296abd.pack",
+      "size": 51219,
+      "sha256": "11ae4d296abd2de75a78a276c82891b31ea50398e02d193ff7a7b9b22a621d47",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 52975,
+      "name": "\u0396\u03AC\u03BA\u03C5\u03BD\u03B8\u03BF\u03C2, \u0391\u03C1\u03B3\u03BF\u03C3\u03C4\u03CC\u03BB\u03B9",
+      "de": "Zakynthos, Argostoli"
+    },
+    {
+      "x": 142,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "142-99-e61b4873e0e0.pack",
+      "size": 1694,
+      "sha256": "e61b4873e0e01b49b548d1b47c2af076ea95cbe1f7ac7ddc859d7e3596615761",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 2188
+    },
+    {
+      "x": 143,
+      "y": 81,
+      "regions": [
+        "warminsko-mazurskie"
+      ],
+      "release": "2026-11",
+      "file": "143-81-58b81e606895.pack",
+      "size": 4788,
+      "sha256": "58b81e6068951dd1a64d6f8f1fb38e2c81e5366141bd8ed356060593a848636b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 32768,
+      "name": "Go\u0142dap, W\u0119gorzewo",
+      "de": "Goldap, Angerburg"
+    },
+    {
+      "x": 143,
+      "y": 82,
+      "regions": [
+        "warminsko-mazurskie",
+        "podlaskie",
+        "mazowieckie"
+      ],
+      "release": "2026-11",
+      "file": "143-82-f9cd30b1eaab.pack",
+      "size": 26977,
+      "sha256": "f9cd30b1eaabe2304863de46bfb5eba25523010902445ab6bd8e0b98ec54fd4f",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "E\u0142k, Gi\u017Cycko",
+      "de": "Lyck, L\u00F6tzen"
+    },
+    {
+      "x": 143,
+      "y": 83,
+      "regions": [
+        "mazowieckie",
+        "podlaskie"
+      ],
+      "release": "2026-11",
+      "file": "143-83-6834144dac58.pack",
+      "size": 23776,
+      "sha256": "6834144dac58ccebd599e6dd5a4015f001cd65ab02ed985a4ae098cdb8b34a29",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0141om\u017Ca, Ostro\u0142\u0119ka",
+      "de": "Lomscha, Ostrolenka"
+    },
+    {
+      "x": 143,
+      "y": 84,
+      "regions": [
+        "mazowieckie",
+        "lubelskie"
+      ],
+      "release": "2026-11",
+      "file": "143-84-ab4485337095.pack",
+      "size": 34034,
+      "sha256": "ab448533709515d308b5b10e6a1b4685c863d483aabce06a5115b22bd8852286",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Siedlce, Otwock",
+      "de": "Siedlez, Otwock"
+    },
+    {
+      "x": 143,
+      "y": 85,
+      "regions": [
+        "lubelskie",
+        "mazowieckie",
+        "swietokrzyskie",
+        "podkarpackie"
+      ],
+      "release": "2026-11",
+      "file": "143-85-fe756541fe2e.pack",
+      "size": 129536,
+      "sha256": "fe756541fe2e031cdce250feac0dcec0c22da02969080bbd2d3a45ab6191cde4",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Radom, Ostrowiec \u015Awi\u0119tokrzyski"
+    },
+    {
+      "x": 143,
+      "y": 86,
+      "regions": [
+        "podkarpackie",
+        "swietokrzyskie",
+        "malopolskie",
+        "lubelskie"
+      ],
+      "release": "2026-11",
+      "file": "143-86-4b07adb90fa9.pack",
+      "size": 155888,
+      "sha256": "4b07adb90fa955933c8f3cea0aacc4b252a219abcdec370a5f62746bc675066b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "Rzesz\u00F3w, Mielec",
+      "de": "Resche, Mielec"
+    },
+    {
+      "x": 143,
+      "y": 87,
+      "regions": [
+        "podkarpackie",
+        "malopolskie"
+      ],
+      "release": "2026-11",
+      "file": "143-87-50fd7d2ba270.pack",
+      "size": 110698,
+      "sha256": "50fd7d2ba27066ff1dcf3a499bc2b28f69127eee00b5b895a4500b4993df4804",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 207,
+      "name": "Krosno, Sanok",
+      "de": "Krossen, Sanok"
+    },
+    {
+      "x": 143,
+      "y": 96,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "143-96-5be70aee4105.pack",
+      "size": 348508,
+      "sha256": "5be70aee4105418bddaae939986f8b9e01dda92f244778796465c5dedf7cbc39",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65532,
+      "name": "\u0392\u03AD\u03C1\u03BF\u03B9\u03B1, \u039A\u03BF\u03B6\u03AC\u03BD\u03B7",
+      "de": "Veria, Kozani"
+    },
+    {
+      "x": 143,
+      "y": 97,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "143-97-056558debf3c.pack",
+      "size": 418729,
+      "sha256": "056558debf3c9988771be7dafaf3284e57df0b9ee087580a4703088da1164b8e",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u039B\u03AC\u03C1\u03B9\u03C3\u03B1, \u03A4\u03C1\u03AF\u03BA\u03B1\u03BB\u03B1",
+      "de": "Larisa, Trikala"
+    },
+    {
+      "x": 143,
+      "y": 98,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "143-98-d1d73a18d276.pack",
+      "size": 292817,
+      "sha256": "d1d73a18d276b1b22fceff48a4060be86d4e568e027ffd3db81537f358aa87ee",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u03A0\u03AC\u03C4\u03C1\u03B1, \u0391\u03B3\u03C1\u03AF\u03BD\u03B9\u03BF",
+      "de": "Patras, Agrinio"
+    },
+    {
+      "x": 143,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "143-99-2f8b2de9e045.pack",
+      "size": 147265,
+      "sha256": "2f8b2de9e045de6988e98eaca6904d691257a8a498c1e6479d2323faef9e6adf",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u039A\u03B1\u03BB\u03B1\u03BC\u03AC\u03C4\u03B1, \u03A0\u03CD\u03C1\u03B3\u03BF\u03C2",
+      "de": "Kalamata, Pyrgos"
+    },
+    {
+      "x": 143,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "143-100-b14c1530d249.pack",
+      "size": 1948,
+      "sha256": "b14c1530d249c5501d3b1c67ecfdb658af3ad6b733399698da330706c00bf1e3",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 2254
+    },
+    {
+      "x": 144,
+      "y": 81,
+      "regions": [
+        "podlaskie",
+        "warminsko-mazurskie"
+      ],
+      "release": "2026-11",
+      "file": "144-81-85907c2de414.pack",
+      "size": 7879,
+      "sha256": "85907c2de41441734403bbfd8532c87f66ac0af1ffe88c5935b4f0cc77e5e2a7",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4096
+    },
+    {
+      "x": 144,
+      "y": 82,
+      "regions": [
+        "podlaskie",
+        "warminsko-mazurskie"
+      ],
+      "release": "2026-11",
+      "file": "144-82-c14fbf2ee7db.pack",
+      "size": 46983,
+      "sha256": "c14fbf2ee7dbc38a86b5346307610c60529d37e62f2753c24efb4274b7a8962d",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 30579,
+      "name": "Suwa\u0142ki, August\u00F3w",
+      "de": "Suwalken, August\u00F3w"
+    },
+    {
+      "x": 144,
+      "y": 83,
+      "regions": [
+        "podlaskie",
+        "mazowieckie"
+      ],
+      "release": "2026-11",
+      "file": "144-83-db61b60875a9.pack",
+      "size": 57459,
+      "sha256": "db61b60875a947742578eccbe6559c6b7d15aaead2a2b7968e3d5da3ef343a3a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 16375,
+      "name": "Bia\u0142ystok, Bielsk Podlaski",
+      "de": "Bialystok, Bielsk Podlaski"
+    },
+    {
+      "x": 144,
+      "y": 84,
+      "regions": [
+        "lubelskie",
+        "mazowieckie",
+        "podlaskie"
+      ],
+      "release": "2026-11",
+      "file": "144-84-c20a30691b7e.pack",
+      "size": 13497,
+      "sha256": "c20a30691b7eaec098c0359156759c923ebd049ec28cd6035b384f88a45c069a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 30515,
+      "name": "Bia\u0142a Podlaska, Mi\u0119dzyrzec Podlaski"
+    },
+    {
+      "x": 144,
+      "y": 85,
+      "regions": [
+        "lubelskie"
+      ],
+      "release": "2026-11",
+      "file": "144-85-8a8ceb4212d2.pack",
+      "size": 50366,
+      "sha256": "8a8ceb4212d2e645a4126c312304c94154993eebaec3ce3d8ae5a00c960d2f94",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65399,
+      "name": "Lublin, Che\u0142m",
+      "de": "Lublin, Cholm"
+    },
+    {
+      "x": 144,
+      "y": 86,
+      "regions": [
+        "lubelskie",
+        "podkarpackie"
+      ],
+      "release": "2026-11",
+      "file": "144-86-68e87b1250db.pack",
+      "size": 76396,
+      "sha256": "68e87b1250db4ec6cc81d12af9b0b91d737bd7f41f4cab7704c2fcb39465a3e0",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4991,
+      "name": "Zamo\u015B\u0107, Jaros\u0142aw",
+      "de": "Zamosch, Jaroslau"
+    },
+    {
+      "x": 144,
+      "y": 95,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-95-7353c3d54882.pack",
+      "size": 7005,
+      "sha256": "7353c3d548825f6afb6be0737c1e7dbdf35c1cd6a28a4832ab3eb27e4ea11a20",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 57344,
+      "name": "\u03A3\u03AD\u03C1\u03C1\u03B5\u03C2, \u039A\u03B9\u03BB\u03BA\u03AF\u03C2",
+      "de": "Serres, Kilkis"
+    },
+    {
+      "x": 144,
+      "y": 96,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-96-c9e46fb85fb0.pack",
+      "size": 172982,
+      "sha256": "c9e46fb85fb06c3c6e336754995697dc345c036d0e7f2733ef439a15fd6eb1aa",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0398\u03B5\u03C3\u03C3\u03B1\u03BB\u03BF\u03BD\u03AF\u03BA\u03B7, \u0394\u03B9\u03B1\u03B2\u03B1\u03C4\u03AC",
+      "de": "Thessaloniki, \u0394\u03B9\u03B1\u03B2\u03B1\u03C4\u03AC"
+    },
+    {
+      "x": 144,
+      "y": 97,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-97-66c808786f76.pack",
+      "size": 150243,
+      "sha256": "66c808786f7646dc253733ccf0ebfc3e254b31db823b8ef8c715b909f0b337e9",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0392\u03CC\u03BB\u03BF\u03C2, \u039D\u03AD\u03B1 \u0399\u03C9\u03BD\u03AF\u03B1",
+      "de": "Volos, Nea Ionia"
+    },
+    {
+      "x": 144,
+      "y": 98,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-98-b4ce14a3a891.pack",
+      "size": 802080,
+      "sha256": "b4ce14a3a8915a096941c8f9ce664685da65394fff1dfa41cf1db2eb4202db90",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0391\u03B8\u03AE\u03BD\u03B1, \u03A0\u03B5\u03B9\u03C1\u03B1\u03B9\u03AC\u03C2",
+      "de": "Athen, Pir\u00E4us"
+    },
+    {
+      "x": 144,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-99-69d208ec8c0a.pack",
+      "size": 101428,
+      "sha256": "69d208ec8c0a192f467f5af11dd884b9f660484d54cfd5f6984c40df7d9ef9ca",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0386\u03C1\u03B3\u03BF\u03C2, \u039D\u03B1\u03CD\u03C0\u03BB\u03B9\u03BF",
+      "de": "Argos, Nafplio"
+    },
+    {
+      "x": 144,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-100-1ac8e308140a.pack",
+      "size": 21456,
+      "sha256": "1ac8e308140a5faf1cf83d27e16427133776355668f0e8baf0490011d1631aed",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u039A\u03AF\u03C3\u03C3\u03B1\u03BC\u03BF\u03C2, \u03A0\u03BB\u03AC\u03C4\u03B1\u03BD\u03BF\u03C2",
+      "de": "Kissamos, Platanos"
+    },
+    {
+      "x": 144,
+      "y": 101,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "144-101-ac0c07cec24d.pack",
+      "size": 50034,
+      "sha256": "ac0c07cec24d6978cc5932f8be62f1e094e78938f65c9fecb35cd470c5c000e5",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 206,
+      "name": "\u03A0\u03B1\u03BB\u03B1\u03B9\u03CC\u03C7\u03C9\u03C1\u03B1",
+      "de": "Paleochora"
+    },
+    {
+      "x": 145,
+      "y": 95,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-95-2ae64f8ae4d3.pack",
+      "size": 11210,
+      "sha256": "2ae64f8ae4d396c6ecaf76628b511989d60e2576521d2640176f05241af52f53",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 61440,
+      "name": "\u039E\u03AC\u03BD\u03B8\u03B7, \u0394\u03C1\u03AC\u03BC\u03B1",
+      "de": "Xanthi, Drama"
+    },
+    {
+      "x": 145,
+      "y": 96,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-96-6120b58cace7.pack",
+      "size": 113204,
+      "sha256": "6120b58cace7adc0e22060aca66708eec575128c32511986915bfde8a8c1cc72",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u039A\u03B1\u03B2\u03AC\u03BB\u03B1, \u0395\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03BF\u03CD\u03C0\u03BF\u03BB\u03B7",
+      "de": "Kavala, Eleftheroupoli"
+    },
+    {
+      "x": 145,
+      "y": 97,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-97-0215e236c1cb.pack",
+      "size": 977,
+      "sha256": "0215e236c1cbacaec887827429c811152b2dd3fc2740ea00e5117b811dfc8c46",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u039C\u03CD\u03C1\u03B9\u03BD\u03B1, \u039C\u03BF\u03CD\u03B4\u03C1\u03BF\u03C2",
+      "de": "Mirina, \u039C\u03BF\u03CD\u03B4\u03C1\u03BF\u03C2"
+    },
+    {
+      "x": 145,
+      "y": 98,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-98-b7b430aece9f.pack",
+      "size": 191326,
+      "sha256": "b7b430aece9f5dd0a2df5e552bb18f9f5a6c49e203622edde9564aabfd109a56",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0391\u03C1\u03C4\u03AD\u03BC\u03B9\u03B4\u03B1, \u039D\u03AD\u03B1 \u039C\u03AC\u03BA\u03C1\u03B7",
+      "de": "Artemida, Nea Makri"
+    },
+    {
+      "x": 145,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-99-ff13fce98322.pack",
+      "size": 90805,
+      "sha256": "ff13fce98322c91065f87707a296d5d31b8b75a9fb9e992b1a90d8e087706860",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0395\u03C1\u03BC\u03BF\u03CD\u03C0\u03BF\u03BB\u03B7, \u039B\u03B1\u03CD\u03C1\u03B9\u03BF",
+      "de": "Ermoupoli, \u039B\u03B1\u03CD\u03C1\u03B9\u03BF"
+    },
+    {
+      "x": 145,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-100-327a9099483e.pack",
+      "size": 9422,
+      "sha256": "327a9099483eaabb8b813511746698696db34f08e358ea115686182af5fadc04",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u03A7\u03B1\u03BD\u03B9\u03AC, \u039A\u03BF\u03C5\u03BD\u03BF\u03C5\u03C0\u03B9\u03B4\u03B9\u03B1\u03BD\u03AC",
+      "de": "Chania, \u039A\u03BF\u03C5\u03BD\u03BF\u03C5\u03C0\u03B9\u03B4\u03B9\u03B1\u03BD\u03AC"
+    },
+    {
+      "x": 145,
+      "y": 101,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "145-101-03c9714e57ab.pack",
+      "size": 161787,
+      "sha256": "03c9714e57abb0f56bc608b5218d34636ab50184121706a6d917d9048feef824",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3839,
+      "name": "\u0397\u03C1\u03AC\u03BA\u03BB\u03B5\u03B9\u03BF, \u03A1\u03AD\u03B8\u03C5\u03BC\u03BD\u03BF",
+      "de": "Heraklion, Rethymnon"
+    },
+    {
+      "x": 146,
+      "y": 95,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-95-e7af9533ca7f.pack",
+      "size": 13055,
+      "sha256": "e7af9533ca7fa501c270ab357e0c0575978ad7289203cb1c8dd66058d97a2379",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 12288,
+      "name": "\u039A\u03BF\u03BC\u03BF\u03C4\u03B7\u03BD\u03AE, \u039F\u03C1\u03B5\u03C3\u03C4\u03B9\u03AC\u03B4\u03B1",
+      "de": "Komotini, Orestiada"
+    },
+    {
+      "x": 146,
+      "y": 96,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-96-a4c7e73d3255.pack",
+      "size": 2083,
+      "sha256": "a4c7e73d32556b47af2825d71ae2030202c3eb4f2dba425205121080852e0c24",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 19,
+      "name": "\u0391\u03BB\u03B5\u03BE\u03B1\u03BD\u03B4\u03C1\u03BF\u03CD\u03C0\u03BF\u03BB\u03B7, \u03A6\u03AD\u03C1\u03B5\u03C2",
+      "de": "Alexandroupoli, \u03A6\u03AD\u03C1\u03B5\u03C2"
+    },
+    {
+      "x": 146,
+      "y": 97,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-97-d56e0fa18686.pack",
+      "size": 24277,
+      "sha256": "d56e0fa18686dabb7a57046c1890375c125b3f0ab52cb84e9e41da2279ef2575",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 30481,
+      "name": "\u039C\u03C5\u03C4\u03B9\u03BB\u03AE\u03BD\u03B7, \u03A0\u03BB\u03C9\u03BC\u03AC\u03C1\u03B9",
+      "de": "Mytilini, Plomari"
+    },
+    {
+      "x": 146,
+      "y": 98,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-98-f7de5e75152f.pack",
+      "size": 16552,
+      "sha256": "f7de5e75152f804bffb869394d61ad9777747f8a3579c47d73a59de234bcc1fe",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 62259,
+      "name": "\u03A7\u03AF\u03BF\u03C2, \u039A\u03B1\u03C1\u03BB\u03CC\u03B2\u03B1\u03C3\u03B9",
+      "de": "Chios, Karlovasi"
+    },
+    {
+      "x": 146,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-99-627f994c850f.pack",
+      "size": 93425,
+      "sha256": "627f994c850f7092484580fd3b6321ab65e7fafda3901d3c6c774c1661035033",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u0386\u03B3\u03B9\u03BF\u03C2 \u039A\u03AE\u03C1\u03C5\u03BA\u03BF\u03C2, \u039D\u03AC\u03BE\u03BF\u03C2",
+      "de": "Agios Kirikos, \u039D\u03AC\u03BE\u03BF\u03C2"
+    },
+    {
+      "x": 146,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-100-3222aad3222b.pack",
+      "size": 19932,
+      "sha256": "3222aad3222b1c8b9de193ed26c8c1425c56e391ad1b6ec550246603110f698b",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65535,
+      "name": "\u03A6\u03B7\u03C1\u03AC"
+    },
+    {
+      "x": 146,
+      "y": 101,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "146-101-edb38ae73fd0.pack",
+      "size": 68579,
+      "sha256": "edb38ae73fd0fe550cce11cd434c283faa02e5d2420f09f7e47eaf994ac95159",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 1023,
+      "name": "\u0399\u03B5\u03C1\u03AC\u03C0\u03B5\u03C4\u03C1\u03B1, \u0386\u03B3\u03B9\u03BF\u03C2 \u039D\u03B9\u03BA\u03CC\u03BB\u03B1\u03BF\u03C2",
+      "de": "Ierapetra, Agios Nikolaos"
+    },
+    {
+      "x": 147,
+      "y": 99,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "147-99-d18c903eeb03.pack",
+      "size": 32399,
+      "sha256": "d18c903eeb032687ea1eedd2d5f1134408aada42adda61f69bcf7b44a229f811",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 4368,
+      "name": "\u0391\u03BD\u03C4\u03B9\u03BC\u03AC\u03C7\u03B5\u03B9\u03B1, \u039A\u03C9\u03C2",
+      "de": "Antimachia, Kos"
+    },
+    {
+      "x": 147,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "147-100-5311497bbc6c.pack",
+      "size": 65854,
+      "sha256": "5311497bbc6c4f86c677bc4c17f1829ff8814b2143319a729fdf405a2f899cb2",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 65527,
+      "name": "\u0391\u03C1\u03C7\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2, \u039A\u03AC\u03C1\u03C0\u03B1\u03B8\u03BF\u03C2",
+      "de": "Archangelos, \u039A\u03AC\u03C1\u03C0\u03B1\u03B8\u03BF\u03C2"
+    },
+    {
+      "x": 147,
+      "y": 101,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "147-101-3b1486845581.pack",
+      "size": 1310,
+      "sha256": "3b148684558166d39df6d46d86775924f5a2f5eff02df74f0c91fee467c8d620",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 3
+    },
+    {
+      "x": 148,
+      "y": 100,
+      "regions": [
+        "greece"
+      ],
+      "release": "2026-11",
+      "file": "148-100-b2579f11db56.pack",
+      "size": 7064,
+      "sha256": "b2579f11db568591acd846cd6dc15f9a8b4a1f0262fb6cb25564a94c48ac7e9a",
+      "data": "2026-11-01T21:21:36Z",
+      "built": "2026-11-02T16:17:44.307769Z",
+      "pieces": 784,
+      "name": "\u03A1\u03CC\u03B4\u03BF\u03C2, \u0391\u03C6\u03AC\u03BD\u03C4\u03BF\u03C5",
+      "de": "Rhodos, Afantou"
     }
   ]
 }
