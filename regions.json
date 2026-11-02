@@ -6,6 +6,42 @@
       "de": "\u00D6sterreich"
     },
     {
+      "id": "nord-est"
+    },
+    {
+      "id": "switzerland"
+    },
+    {
+      "id": "sud"
+    },
+    {
+      "id": "centro"
+    },
+    {
+      "id": "isole"
+    },
+    {
+      "id": "nord-ovest"
+    },
+    {
+      "id": "belgium"
+    },
+    {
+      "id": "croatia"
+    },
+    {
+      "id": "freiburg-regbez"
+    },
+    {
+      "id": "karlsruhe-regbez"
+    },
+    {
+      "id": "stuttgart-regbez"
+    },
+    {
+      "id": "tuebingen-regbez"
+    },
+    {
       "id": "mittelfranken"
     },
     {
@@ -27,22 +63,169 @@
       "id": "unterfranken"
     },
     {
-      "id": "nord-est"
+      "id": "berlin"
     },
     {
-      "id": "switzerland"
+      "id": "brandenburg"
     },
     {
-      "id": "sud"
+      "id": "bremen"
     },
     {
-      "id": "centro"
+      "id": "hamburg"
     },
     {
-      "id": "isole"
+      "id": "hessen"
     },
     {
-      "id": "nord-ovest"
+      "id": "mecklenburg-vorpommern"
+    },
+    {
+      "id": "niedersachsen"
+    },
+    {
+      "id": "arnsberg-regbez"
+    },
+    {
+      "id": "detmold-regbez"
+    },
+    {
+      "id": "duesseldorf-regbez"
+    },
+    {
+      "id": "koeln-regbez"
+    },
+    {
+      "id": "muenster-regbez"
+    },
+    {
+      "id": "rheinland-pfalz"
+    },
+    {
+      "id": "saarland"
+    },
+    {
+      "id": "sachsen"
+    },
+    {
+      "id": "sachsen-anhalt"
+    },
+    {
+      "id": "schleswig-holstein"
+    },
+    {
+      "id": "thueringen"
+    },
+    {
+      "id": "greece"
+    },
+    {
+      "id": "liechtenstein"
+    },
+    {
+      "id": "luxembourg"
+    },
+    {
+      "id": "dolnoslaskie"
+    },
+    {
+      "id": "kujawsko-pomorskie"
+    },
+    {
+      "id": "lubelskie"
+    },
+    {
+      "id": "lubuskie"
+    },
+    {
+      "id": "mazowieckie"
+    },
+    {
+      "id": "malopolskie"
+    },
+    {
+      "id": "opolskie"
+    },
+    {
+      "id": "podkarpackie"
+    },
+    {
+      "id": "podlaskie"
+    },
+    {
+      "id": "pomorskie"
+    },
+    {
+      "id": "warminsko-mazurskie"
+    },
+    {
+      "id": "wielkopolskie"
+    },
+    {
+      "id": "zachodniopomorskie"
+    },
+    {
+      "id": "lodzkie"
+    },
+    {
+      "id": "slaskie"
+    },
+    {
+      "id": "swietokrzyskie"
+    },
+    {
+      "id": "andalucia"
+    },
+    {
+      "id": "aragon"
+    },
+    {
+      "id": "asturias"
+    },
+    {
+      "id": "cantabria"
+    },
+    {
+      "id": "castilla-y-leon"
+    },
+    {
+      "id": "castilla-la-mancha"
+    },
+    {
+      "id": "cataluna"
+    },
+    {
+      "id": "ceuta"
+    },
+    {
+      "id": "extremadura"
+    },
+    {
+      "id": "galicia"
+    },
+    {
+      "id": "islas-baleares"
+    },
+    {
+      "id": "la-rioja"
+    },
+    {
+      "id": "madrid"
+    },
+    {
+      "id": "melilla"
+    },
+    {
+      "id": "murcia"
+    },
+    {
+      "id": "navarra"
+    },
+    {
+      "id": "pais-vasco"
+    },
+    {
+      "id": "valencia"
     }
   ]
 }
