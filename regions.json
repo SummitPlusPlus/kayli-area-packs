@@ -226,6 +226,414 @@
     },
     {
       "id": "valencia"
+    },
+    {
+      "id": "hungary"
+    },
+    {
+      "id": "drenthe"
+    },
+    {
+      "id": "flevoland"
+    },
+    {
+      "id": "friesland"
+    },
+    {
+      "id": "gelderland"
+    },
+    {
+      "id": "groningen"
+    },
+    {
+      "id": "limburg"
+    },
+    {
+      "id": "noord-brabant"
+    },
+    {
+      "id": "noord-holland"
+    },
+    {
+      "id": "overijssel"
+    },
+    {
+      "id": "utrecht"
+    },
+    {
+      "id": "zeeland"
+    },
+    {
+      "id": "zuid-holland"
+    },
+    {
+      "id": "nord-norge"
+    },
+    {
+      "id": "svalbard-janmayen"
+    },
+    {
+      "id": "sorlandet"
+    },
+    {
+      "id": "trondelag"
+    },
+    {
+      "id": "vestlandet"
+    },
+    {
+      "id": "ostlandet"
+    },
+    {
+      "id": "portugal"
+    },
+    {
+      "id": "romania"
+    },
+    {
+      "id": "serbia"
+    },
+    {
+      "id": "slovakia"
+    },
+    {
+      "id": "slovenia"
+    },
+    {
+      "id": "monaco"
+    },
+    {
+      "id": "ireland-and-northern-ireland"
+    },
+    {
+      "id": "iceland"
+    },
+    {
+      "id": "great-britain"
+    },
+    {
+      "id": "georgia"
+    },
+    {
+      "id": "alsace"
+    },
+    {
+      "id": "aquitaine"
+    },
+    {
+      "id": "auvergne"
+    },
+    {
+      "id": "basse-normandie"
+    },
+    {
+      "id": "bourgogne"
+    },
+    {
+      "id": "bretagne"
+    },
+    {
+      "id": "centre"
+    },
+    {
+      "id": "champagne-ardenne"
+    },
+    {
+      "id": "corse"
+    },
+    {
+      "id": "franche-comte"
+    },
+    {
+      "id": "guadeloupe"
+    },
+    {
+      "id": "guyane"
+    },
+    {
+      "id": "haute-normandie"
+    },
+    {
+      "id": "ile-de-france"
+    },
+    {
+      "id": "languedoc-roussillon"
+    },
+    {
+      "id": "limousin"
+    },
+    {
+      "id": "lorraine"
+    },
+    {
+      "id": "martinique"
+    },
+    {
+      "id": "mayotte"
+    },
+    {
+      "id": "midi-pyrenees"
+    },
+    {
+      "id": "nord-pas-de-calais"
+    },
+    {
+      "id": "pays-de-la-loire"
+    },
+    {
+      "id": "picardie"
+    },
+    {
+      "id": "poitou-charentes"
+    },
+    {
+      "id": "provence-alpes-cote-d-azur"
+    },
+    {
+      "id": "reunion"
+    },
+    {
+      "id": "rhone-alpes"
+    },
+    {
+      "id": "finland"
+    },
+    {
+      "id": "denmark"
+    },
+    {
+      "id": "jihomoravsky"
+    },
+    {
+      "id": "jihocesky"
+    },
+    {
+      "id": "karlovarsky"
+    },
+    {
+      "id": "vysocina"
+    },
+    {
+      "id": "kralovehradecky"
+    },
+    {
+      "id": "liberecky"
+    },
+    {
+      "id": "moravskoslezky"
+    },
+    {
+      "id": "olomoucky"
+    },
+    {
+      "id": "pardubicky"
+    },
+    {
+      "id": "plzensky"
+    },
+    {
+      "id": "praha"
+    },
+    {
+      "id": "stredocesky"
+    },
+    {
+      "id": "zlinsky"
+    },
+    {
+      "id": "ustecky"
+    },
+    {
+      "id": "cyprus"
+    },
+    {
+      "id": "bulgaria"
+    },
+    {
+      "id": "britain-and-ireland"
+    },
+    {
+      "id": "azores"
+    },
+    {
+      "id": "macedonia"
+    },
+    {
+      "id": "malta"
+    },
+    {
+      "id": "montenegro"
+    },
+    {
+      "id": "moldova"
+    },
+    {
+      "id": "sweden"
+    },
+    {
+      "id": "turkey"
+    },
+    {
+      "id": "bermuda"
+    },
+    {
+      "id": "bedfordshire"
+    },
+    {
+      "id": "berkshire"
+    },
+    {
+      "id": "bristol"
+    },
+    {
+      "id": "buckinghamshire"
+    },
+    {
+      "id": "cambridgeshire"
+    },
+    {
+      "id": "cheshire"
+    },
+    {
+      "id": "cornwall"
+    },
+    {
+      "id": "cumbria"
+    },
+    {
+      "id": "derbyshire"
+    },
+    {
+      "id": "devon"
+    },
+    {
+      "id": "dorset"
+    },
+    {
+      "id": "durham"
+    },
+    {
+      "id": "east-sussex"
+    },
+    {
+      "id": "east-yorkshire-with-hull"
+    },
+    {
+      "id": "essex"
+    },
+    {
+      "id": "gloucestershire"
+    },
+    {
+      "id": "greater-london"
+    },
+    {
+      "id": "greater-manchester"
+    },
+    {
+      "id": "hampshire"
+    },
+    {
+      "id": "herefordshire"
+    },
+    {
+      "id": "hertfordshire"
+    },
+    {
+      "id": "isle-of-wight"
+    },
+    {
+      "id": "kent"
+    },
+    {
+      "id": "lancashire"
+    },
+    {
+      "id": "leicestershire"
+    },
+    {
+      "id": "lincolnshire"
+    },
+    {
+      "id": "merseyside"
+    },
+    {
+      "id": "norfolk"
+    },
+    {
+      "id": "north-yorkshire"
+    },
+    {
+      "id": "northamptonshire"
+    },
+    {
+      "id": "northumberland"
+    },
+    {
+      "id": "nottinghamshire"
+    },
+    {
+      "id": "oxfordshire"
+    },
+    {
+      "id": "rutland"
+    },
+    {
+      "id": "shropshire"
+    },
+    {
+      "id": "somerset"
+    },
+    {
+      "id": "south-yorkshire"
+    },
+    {
+      "id": "staffordshire"
+    },
+    {
+      "id": "suffolk"
+    },
+    {
+      "id": "surrey"
+    },
+    {
+      "id": "tyne-and-wear"
+    },
+    {
+      "id": "warwickshire"
+    },
+    {
+      "id": "west-midlands"
+    },
+    {
+      "id": "west-sussex"
+    },
+    {
+      "id": "west-yorkshire"
+    },
+    {
+      "id": "wiltshire"
+    },
+    {
+      "id": "worcestershire"
+    },
+    {
+      "id": "falklands"
+    },
+    {
+      "id": "scotland"
+    },
+    {
+      "id": "wales"
+    },
+    {
+      "id": "bhutan"
+    },
+    {
+      "id": "jordan"
+    },
+    {
+      "id": "nepal"
     }
   ]
 }
